@@ -1,0 +1,556 @@
+{{'topleft': {'y': 178, 'x': 435}, 'confidence': 0.5403528, 'bottomright': {'y': 207, 'x': 497}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:05:23.583119"}},{,{"frame":"2018-08-07 12:05:25.908816"}},{{'topleft': {'y': 117, 'x': 251}, 'confidence': 0.501463, 'bottomright': {'y': 192, 'x': 313}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:05:28.212978"}},{{'topleft': {'y': 115, 'x': 267}, 'confidence': 0.5385284, 'bottomright': {'y': 195, 'x': 341}, 'label': 'bus'}
+{'topleft': {'y': 178, 'x': 435}, 'confidence': 0.50913393, 'bottomright': {'y': 207, 'x': 501}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:05:30.487415"}},{,{"frame":"2018-08-07 12:05:32.763447"}},{{'topleft': {'y': 115, 'x': 250}, 'confidence': 0.5797764, 'bottomright': {'y': 203, 'x': 364}, 'label': 'train'}
+,{"frame":"2018-08-07 12:05:35.026093"}},{,{"frame":"2018-08-07 12:05:37.278503"}},{{'topleft': {'y': 115, 'x': 254}, 'confidence': 0.6446358, 'bottomright': {'y': 228, 'x': 404}, 'label': 'train'}
+,{"frame":"2018-08-07 12:05:39.533453"}},{,{"frame":"2018-08-07 12:05:41.780266"}},{,{"frame":"2018-08-07 12:05:44.031569"}},{,{"frame":"2018-08-07 12:05:46.318443"}},{,{"frame":"2018-08-07 12:05:48.590859"}},{,{"frame":"2018-08-07 12:05:50.849917"}},{,{"frame":"2018-08-07 12:05:53.116426"}},{,{"frame":"2018-08-07 12:05:55.379669"}},{,{"frame":"2018-08-07 12:05:57.678496"}},{{'topleft': {'y': 128, 'x': 342}, 'confidence': 0.66846395, 'bottomright': {'y': 318, 'x': 621}, 'label': 'train'}
+,{"frame":"2018-08-07 12:06:00.315520"}},{{'topleft': {'y': 138, 'x': 374}, 'confidence': 0.5204685, 'bottomright': {'y': 348, 'x': 656}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:06:02.708265"}},{{'topleft': {'y': 137, 'x': 368}, 'confidence': 0.6375011, 'bottomright': {'y': 344, 'x': 674}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:06:05.003231"}},{,{"frame":"2018-08-07 12:06:07.255254"}},{,{"frame":"2018-08-07 12:06:09.491667"}},{,{"frame":"2018-08-07 12:06:11.791838"}},{,{"frame":"2018-08-07 12:06:14.854588"}},{,{"frame":"2018-08-07 12:06:18.133879"}},{,{"frame":"2018-08-07 12:06:21.075945"}},{,{"frame":"2018-08-07 12:06:23.767366"}},{,{"frame":"2018-08-07 12:06:26.061325"}},{,{"frame":"2018-08-07 12:06:28.278082"}},{,{"frame":"2018-08-07 12:06:30.507367"}},{,{"frame":"2018-08-07 12:06:32.756369"}},{,{"frame":"2018-08-07 12:06:34.977536"}},{,{"frame":"2018-08-07 12:06:37.184211"}},{,{"frame":"2018-08-07 12:06:39.263602"}},{,{"frame":"2018-08-07 12:06:41.525234"}},{{'topleft': {'y': 127, 'x': 72}, 'confidence': 0.51052725, 'bottomright': {'y': 147, 'x': 105}, 'label': 'car'}
+{'topleft': {'y': 149, 'x': 134}, 'confidence': 0.5343718, 'bottomright': {'y': 342, 'x': 402}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:06:43.777521"}},{{'topleft': {'y': 181, 'x': 275}, 'confidence': 0.6425993, 'bottomright': {'y': 207, 'x': 304}, 'label': 'car'}
+,{"frame":"2018-08-07 12:06:45.994720"}},{{'topleft': {'y': 180, 'x': 164}, 'confidence': 0.5307127, 'bottomright': {'y': 208, 'x': 194}, 'label': 'car'}
+{'topleft': {'y': 181, 'x': 274}, 'confidence': 0.59528786, 'bottomright': {'y': 208, 'x': 303}, 'label': 'car'}
+,{"frame":"2018-08-07 12:06:48.179638"}},{{'topleft': {'y': 178, 'x': 436}, 'confidence': 0.5384267, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:06:50.383289"}},{{'topleft': {'y': 178, 'x': 437}, 'confidence': 0.50311345, 'bottomright': {'y': 207, 'x': 497}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:06:52.606534"}},{{'topleft': {'y': 178, 'x': 436}, 'confidence': 0.58789426, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:06:54.818734"}},{{'topleft': {'y': 178, 'x': 436}, 'confidence': 0.5178292, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:06:57.046985"}},{{'topleft': {'y': 178, 'x': 435}, 'confidence': 0.6104009, 'bottomright': {'y': 207, 'x': 497}, 'label': 'bench'}
+{'topleft': {'y': 177, 'x': 522}, 'confidence': 0.5380645, 'bottomright': {'y': 209, 'x': 595}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:06:59.232388"}},{{'topleft': {'y': 178, 'x': 438}, 'confidence': 0.53052306, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:07:01.453486"}},{{'topleft': {'y': 177, 'x': 436}, 'confidence': 0.57028186, 'bottomright': {'y': 207, 'x': 497}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:07:03.687775"}},{{'topleft': {'y': 176, 'x': 435}, 'confidence': 0.51722425, 'bottomright': {'y': 207, 'x': 497}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:07:05.924967"}},{{'topleft': {'y': 289, 'x': 461}, 'confidence': 0.53327703, 'bottomright': {'y': 380, 'x': 596}, 'label': 'car'}
+{'topleft': {'y': 141, 'x': 305}, 'confidence': 0.58683646, 'bottomright': {'y': 357, 'x': 585}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:07:08.149920"}},{,{"frame":"2018-08-07 12:07:10.400410"}},{{'topleft': {'y': 110, 'x': 691}, 'confidence': 0.59515953, 'bottomright': {'y': 212, 'x': 797}, 'label': 'train'}
+,{"frame":"2018-08-07 12:07:12.629352"}},{,{"frame":"2018-08-07 12:07:14.911431"}},{,{"frame":"2018-08-07 12:07:17.138032"}},{{'topleft': {'y': 178, 'x': 524}, 'confidence': 0.5229743, 'bottomright': {'y': 209, 'x': 594}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:07:19.372495"}},{{'topleft': {'y': 177, 'x': 437}, 'confidence': 0.507941, 'bottomright': {'y': 206, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:07:21.624369"}},{{'topleft': {'y': 177, 'x': 435}, 'confidence': 0.56962055, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:07:23.846506"}},{,{"frame":"2018-08-07 12:07:26.073597"}},{,{"frame":"2018-08-07 12:07:28.305556"}},{,{"frame":"2018-08-07 12:07:30.531220"}},{,{"frame":"2018-08-07 12:07:32.745954"}},{{'topleft': {'y': 177, 'x': 434}, 'confidence': 0.501802, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:07:34.977255"}},{{'topleft': {'y': 118, 'x': 212}, 'confidence': 0.51935095, 'bottomright': {'y': 226, 'x': 305}, 'label': 'train'}
+,{"frame":"2018-08-07 12:07:37.195554"}},{{'topleft': {'y': 133, 'x': 143}, 'confidence': 0.5620268, 'bottomright': {'y': 183, 'x': 175}, 'label': 'person'}
+{'topleft': {'y': 138, 'x': 246}, 'confidence': 0.61101174, 'bottomright': {'y': 300, 'x': 451}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:07:39.414844"}},{{'topleft': {'y': 101, 'x': 298}, 'confidence': 0.61984265, 'bottomright': {'y': 395, 'x': 667}, 'label': 'train'}
+,{"frame":"2018-08-07 12:07:41.648994"}},{,{"frame":"2018-08-07 12:07:43.868880"}},{,{"frame":"2018-08-07 12:07:46.103887"}},{{'topleft': {'y': 133, 'x': 142}, 'confidence': 0.5168886, 'bottomright': {'y': 184, 'x': 174}, 'label': 'person'}
+,{"frame":"2018-08-07 12:07:48.325303"}},{,{"frame":"2018-08-07 12:07:50.544099"}},{,{"frame":"2018-08-07 12:07:52.752880"}},{,{"frame":"2018-08-07 12:07:54.979617"}},{{'topleft': {'y': 131, 'x': 142}, 'confidence': 0.5873413, 'bottomright': {'y': 184, 'x': 175}, 'label': 'person'}
+,{"frame":"2018-08-07 12:07:57.192997"}},{{'topleft': {'y': 134, 'x': 141}, 'confidence': 0.53169775, 'bottomright': {'y': 185, 'x': 174}, 'label': 'person'}
+{'topleft': {'y': 253, 'x': 736}, 'confidence': 0.5732769, 'bottomright': {'y': 345, 'x': 799}, 'label': 'car'}
+,{"frame":"2018-08-07 12:07:59.414787"}},{,{"frame":"2018-08-07 12:08:01.634982"}},{{'topleft': {'y': 155, 'x': 349}, 'confidence': 0.5474575, 'bottomright': {'y': 195, 'x': 402}, 'label': 'car'}
+,{"frame":"2018-08-07 12:08:03.746018"}},{{'topleft': {'y': 153, 'x': 346}, 'confidence': 0.59537303, 'bottomright': {'y': 194, 'x': 404}, 'label': 'car'}
+,{"frame":"2018-08-07 12:08:05.956343"}},{{'topleft': {'y': 156, 'x': 347}, 'confidence': 0.60562307, 'bottomright': {'y': 194, 'x': 401}, 'label': 'car'}
+,{"frame":"2018-08-07 12:08:08.206419"}},{{'topleft': {'y': 155, 'x': 346}, 'confidence': 0.6436956, 'bottomright': {'y': 195, 'x': 404}, 'label': 'car'}
+,{"frame":"2018-08-07 12:08:10.430802"}},{{'topleft': {'y': 152, 'x': 347}, 'confidence': 0.5809596, 'bottomright': {'y': 193, 'x': 403}, 'label': 'car'}
+{'topleft': {'y': 182, 'x': 604}, 'confidence': 0.5749352, 'bottomright': {'y': 210, 'x': 686}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:08:12.662435"}},{{'topleft': {'y': 154, 'x': 348}, 'confidence': 0.5771012, 'bottomright': {'y': 193, 'x': 402}, 'label': 'car'}
+,{"frame":"2018-08-07 12:08:14.880411"}},{{'topleft': {'y': 153, 'x': 349}, 'confidence': 0.5055084, 'bottomright': {'y': 193, 'x': 402}, 'label': 'car'}
+,{"frame":"2018-08-07 12:08:17.018740"}},{,{"frame":"2018-08-07 12:08:19.252349"}},{{'topleft': {'y': 156, 'x': 346}, 'confidence': 0.541223, 'bottomright': {'y': 193, 'x': 403}, 'label': 'car'}
+,{"frame":"2018-08-07 12:08:21.463654"}},{{'topleft': {'y': 156, 'x': 348}, 'confidence': 0.6224491, 'bottomright': {'y': 194, 'x': 401}, 'label': 'car'}
+,{"frame":"2018-08-07 12:08:23.687617"}},{{'topleft': {'y': 155, 'x': 351}, 'confidence': 0.61309046, 'bottomright': {'y': 196, 'x': 400}, 'label': 'car'}
+,{"frame":"2018-08-07 12:08:25.903443"}},{,{"frame":"2018-08-07 12:08:28.135945"}},{{'topleft': {'y': 184, 'x': 450}, 'confidence': 0.76065195, 'bottomright': {'y': 230, 'x': 517}, 'label': 'car'}
+{'topleft': {'y': 112, 'x': 267}, 'confidence': 0.64279747, 'bottomright': {'y': 203, 'x': 346}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:08:30.387066"}},{{'topleft': {'y': 227, 'x': 577}, 'confidence': 0.79663783, 'bottomright': {'y': 283, 'x': 693}, 'label': 'car'}
+{'topleft': {'y': 109, 'x': 250}, 'confidence': 0.8065581, 'bottomright': {'y': 218, 'x': 387}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:08:32.611371"}},{{'topleft': {'y': 121, 'x': 308}, 'confidence': 0.727167, 'bottomright': {'y': 237, 'x': 430}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:08:34.837427"}},{{'topleft': {'y': 139, 'x': 377}, 'confidence': 0.72493714, 'bottomright': {'y': 352, 'x': 682}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:08:37.051117"}},{,{"frame":"2018-08-07 12:08:39.190854"}},{{'topleft': {'y': 177, 'x': 436}, 'confidence': 0.6012108, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:08:41.477509"}},{,{"frame":"2018-08-07 12:08:43.967759"}},{{'topleft': {'y': 177, 'x': 437}, 'confidence': 0.6065166, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:08:46.280185"}},{,{"frame":"2018-08-07 12:08:48.584525"}},{{'topleft': {'y': 177, 'x': 437}, 'confidence': 0.55696744, 'bottomright': {'y': 206, 'x': 497}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:08:50.855820"}},{{'topleft': {'y': 114, 'x': 79}, 'confidence': 0.5315595, 'bottomright': {'y': 177, 'x': 129}, 'label': 'truck'}
+{'topleft': {'y': 178, 'x': 436}, 'confidence': 0.51961505, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:08:53.151451"}},{,{"frame":"2018-08-07 12:08:55.486341"}},{{'topleft': {'y': 177, 'x': 439}, 'confidence': 0.5365288, 'bottomright': {'y': 206, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:08:57.796922"}},{{'topleft': {'y': 103, 'x': 81}, 'confidence': 0.6388661, 'bottomright': {'y': 188, 'x': 154}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:09:00.098571"}},{,{"frame":"2018-08-07 12:09:02.363062"}},{{'topleft': {'y': 102, 'x': 82}, 'confidence': 0.53843546, 'bottomright': {'y': 196, 'x': 151}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:09:04.626476"}},{,{"frame":"2018-08-07 12:09:06.895401"}},{{'topleft': {'y': 178, 'x': 437}, 'confidence': 0.56740177, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:09:09.158679"}},{{'topleft': {'y': 123, 'x': 112}, 'confidence': 0.74142015, 'bottomright': {'y': 264, 'x': 210}, 'label': 'bus'}
+,{'topleft': {'y': 177, 'x': 439}, 'confidence': 0.5596901, 'bottomright': {'y': 207, 'x': 501}, 'label': 'bench'}
+{'topleft': {'y': 177, 'x': 528}, 'confidence': 0.56276816, 'bottomright': {'y': 209, 'x': 595}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:09:11.438175"}},{{'topleft': {'y': 179, 'x': 268}, 'confidence': 0.68330914, 'bottomright': {'y': 207, 'x': 309}, 'label': 'car'}
+,{"frame":"2018-08-07 12:09:13.701187"}},{,{"frame":"2018-08-07 12:09:15.978051"}},{,{"frame":"2018-08-07 12:09:18.221727"}},{{'topleft': {'y': 177, 'x': 434}, 'confidence': 0.57052934, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:09:20.463354"}},{{'topleft': {'y': 176, 'x': 436}, 'confidence': 0.5302095, 'bottomright': {'y': 208, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:09:22.690398"}},{{'topleft': {'y': 111, 'x': 178}, 'confidence': 0.68009907, 'bottomright': {'y': 208, 'x': 285}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:09:24.928757"}},{{'topleft': {'y': 112, 'x': 182}, 'confidence': 0.71045554, 'bottomright': {'y': 211, 'x': 289}, 'label': 'truck'}
+{'topleft': {'y': 176, 'x': 435}, 'confidence': 0.57260567, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:09:27.339384"}},{{'topleft': {'y': 112, 'x': 186}, 'confidence': 0.6598052, 'bottomright': {'y': 215, 'x': 291}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:09:29.561060"}},{{'topleft': {'y': 120, 'x': 208}, 'confidence': 0.54607725, 'bottomright': {'y': 272, 'x': 363}, 'label': 'truck'}
+{'topleft': {'y': 178, 'x': 524}, 'confidence': 0.53385335, 'bottomright': {'y': 209, 'x': 595}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:09:31.778160"}},{{'topleft': {'y': 121, 'x': 244}, 'confidence': 0.62844473, 'bottomright': {'y': 334, 'x': 495}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:09:34.018019"}},{,{"frame":"2018-08-07 12:09:36.240141"}},{,{"frame":"2018-08-07 12:09:38.466406"}},{,{"frame":"2018-08-07 12:09:40.694708"}},{{'topleft': {'y': 177, 'x': 435}, 'confidence': 0.5761697, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:09:42.930834"}},{{'topleft': {'y': 178, 'x': 436}, 'confidence': 0.64391047, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:09:45.051588"}},{{'topleft': {'y': 178, 'x': 437}, 'confidence': 0.5563496, 'bottomright': {'y': 206, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:09:47.300654"}},{{'topleft': {'y': 178, 'x': 438}, 'confidence': 0.5880802, 'bottomright': {'y': 206, 'x': 500}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:09:49.529688"}},{{'topleft': {'y': 242, 'x': 333}, 'confidence': 0.69235444, 'bottomright': {'y': 309, 'x': 417}, 'label': 'car'}
+,{"frame":"2018-08-07 12:09:51.797953"}},{,{"frame":"2018-08-07 12:09:54.024594"}},{{'topleft': {'y': 177, 'x': 435}, 'confidence': 0.5059858, 'bottomright': {'y': 206, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:09:56.247760"}},{,{"frame":"2018-08-07 12:09:58.480061"}},{{'topleft': {'y': 180, 'x': 162}, 'confidence': 0.5274681, 'bottomright': {'y': 209, 'x': 195}, 'label': 'car'}
+,{"frame":"2018-08-07 12:10:00.720199"}},{{'topleft': {'y': 181, 'x': 164}, 'confidence': 0.51318485, 'bottomright': {'y': 207, 'x': 198}, 'label': 'car'}
+{'topleft': {'y': 179, 'x': 435}, 'confidence': 0.5403249, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:10:02.992096"}},{,{"frame":"2018-08-07 12:10:05.229609"}},{,{"frame":"2018-08-07 12:10:07.469404"}},{,{"frame":"2018-08-07 12:10:09.706692"}},{,{"frame":"2018-08-07 12:10:11.944791"}},{,{"frame":"2018-08-07 12:10:14.209229"}},{{'topleft': {'y': 115, 'x': 188}, 'confidence': 0.5892629, 'bottomright': {'y': 193, 'x': 260}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:10:16.460893"}},{,{"frame":"2018-08-07 12:10:18.688952"}},{,{"frame":"2018-08-07 12:10:20.933086"}},{,{"frame":"2018-08-07 12:10:23.165564"}},{,{"frame":"2018-08-07 12:10:25.375419"}},{{'topleft': {'y': 177, 'x': 438}, 'confidence': 0.5213956, 'bottomright': {'y': 207, 'x': 500}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:10:27.677270"}},{{'topleft': {'y': 177, 'x': 437}, 'confidence': 0.5261421, 'bottomright': {'y': 206, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:10:29.933125"}},{,{"frame":"2018-08-07 12:10:32.160729"}},{{'topleft': {'y': 177, 'x': 435}, 'confidence': 0.5405687, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:10:34.391027"}},{{'topleft': {'y': 177, 'x': 436}, 'confidence': 0.56024677, 'bottomright': {'y': 207, 'x': 497}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:10:36.626141"}},{,{"frame":"2018-08-07 12:10:38.722152"}},{,{"frame":"2018-08-07 12:10:40.931107"}},{{'topleft': {'y': 177, 'x': 523}, 'confidence': 0.5454405, 'bottomright': {'y': 209, 'x': 594}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:10:43.164248"}},{,{"frame":"2018-08-07 12:10:45.354473"}},{,{"frame":"2018-08-07 12:10:47.595239"}},{{'topleft': {'y': 177, 'x': 438}, 'confidence': 0.53172696, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{'topleft': {'y': 179, 'x': 522}, 'confidence': 0.519783, 'bottomright': {'y': 210, 'x': 595}, 'label': 'bench'}
+,{'topleft': {'y': 181, 'x': 606}, 'confidence': 0.5079111, 'bottomright': {'y': 209, 'x': 685}, 'label': 'bench'}
+{'topleft': {'y': 182, 'x': 688}, 'confidence': 0.5734835, 'bottomright': {'y': 210, 'x': 784}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:10:49.797729"}},{{'topleft': {'y': 177, 'x': 436}, 'confidence': 0.5223761, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:10:52.025922"}},{{'topleft': {'y': 177, 'x': 437}, 'confidence': 0.5364415, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:10:54.251578"}},{,{"frame":"2018-08-07 12:10:56.482018"}},{{'topleft': {'y': 177, 'x': 436}, 'confidence': 0.547678, 'bottomright': {'y': 207, 'x': 497}, 'label': 'bench'}
+{'topleft': {'y': 177, 'x': 524}, 'confidence': 0.53407556, 'bottomright': {'y': 208, 'x': 595}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:10:58.720703"}},{{'topleft': {'y': 178, 'x': 436}, 'confidence': 0.6478431, 'bottomright': {'y': 206, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:11:00.963329"}},{,{"frame":"2018-08-07 12:11:03.174396"}},{,{"frame":"2018-08-07 12:11:05.374541"}},{,{"frame":"2018-08-07 12:11:07.615477"}},{{'topleft': {'y': 177, 'x': 437}, 'confidence': 0.5113828, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:11:09.903462"}},{,{"frame":"2018-08-07 12:11:12.129223"}},{,{"frame":"2018-08-07 12:11:14.263936"}},{,{"frame":"2018-08-07 12:11:16.547060"}},{{'topleft': {'y': 177, 'x': 435}, 'confidence': 0.5305658, 'bottomright': {'y': 207, 'x': 500}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:11:18.792173"}},{{'topleft': {'y': 118, 'x': 287}, 'confidence': 0.63418984, 'bottomright': {'y': 225, 'x': 397}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:11:21.083339"}},{,{"frame":"2018-08-07 12:11:23.300967"}},{,{"frame":"2018-08-07 12:11:25.517337"}},{,{"frame":"2018-08-07 12:11:27.657866"}},{,{"frame":"2018-08-07 12:11:29.884367"}},{{'topleft': {'y': 178, 'x': 439}, 'confidence': 0.5154539, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:11:32.134608"}},{{'topleft': {'y': 178, 'x': 436}, 'confidence': 0.58065563, 'bottomright': {'y': 206, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:11:34.380280"}},{,{"frame":"2018-08-07 12:11:36.603479"}},{{'topleft': {'y': 117, 'x': 190}, 'confidence': 0.5555877, 'bottomright': {'y': 204, 'x': 275}, 'label': 'bus'}
+{'topleft': {'y': 128, 'x': 390}, 'confidence': 0.81241983, 'bottomright': {'y': 330, 'x': 686}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:11:38.841270"}},{{'topleft': {'y': 113, 'x': 175}, 'confidence': 0.5055392, 'bottomright': {'y': 213, 'x': 305}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:11:41.071145"}},{{'topleft': {'y': 127, 'x': 209}, 'confidence': 0.62088275, 'bottomright': {'y': 262, 'x': 358}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:11:43.291630"}},{{'topleft': {'y': 126, 'x': 239}, 'confidence': 0.5086506, 'bottomright': {'y': 278, 'x': 412}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:11:45.533370"}},{{'topleft': {'y': 114, 'x': 206}, 'confidence': 0.7116169, 'bottomright': {'y': 241, 'x': 316}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:11:47.765181"}},{{'topleft': {'y': 132, 'x': 275}, 'confidence': 0.70590276, 'bottomright': {'y': 365, 'x': 549}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:11:49.984781"}},{,{"frame":"2018-08-07 12:11:52.231157"}},{{'topleft': {'y': 123, 'x': 325}, 'confidence': 0.80707467, 'bottomright': {'y': 270, 'x': 530}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:11:54.376615"}},{,{"frame":"2018-08-07 12:11:56.619390"}},{,{"frame":"2018-08-07 12:11:58.873080"}},{,{"frame":"2018-08-07 12:12:01.097276"}},{{'topleft': {'y': 178, 'x': 434}, 'confidence': 0.558682, 'bottomright': {'y': 206, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:12:03.316779"}},{{'topleft': {'y': 178, 'x': 435}, 'confidence': 0.5037477, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:12:05.550816"}},{,{"frame":"2018-08-07 12:12:07.793896"}},{,{"frame":"2018-08-07 12:12:10.024482"}},{{'topleft': {'y': 180, 'x': 163}, 'confidence': 0.5030147, 'bottomright': {'y': 210, 'x': 195}, 'label': 'bicycle'}
+,{"frame":"2018-08-07 12:12:12.306254"}},{{'topleft': {'y': 177, 'x': 436}, 'confidence': 0.5682931, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:12:14.532144"}},{{'topleft': {'y': 180, 'x': 345}, 'confidence': 0.54205006, 'bottomright': {'y': 207, 'x': 404}, 'label': 'bench'}
+{'topleft': {'y': 179, 'x': 435}, 'confidence': 0.6061159, 'bottomright': {'y': 207, 'x': 500}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:12:16.826216"}},{{'topleft': {'y': 177, 'x': 438}, 'confidence': 0.63720435, 'bottomright': {'y': 206, 'x': 500}, 'label': 'bench'}
+{'topleft': {'y': 177, 'x': 526}, 'confidence': 0.5326155, 'bottomright': {'y': 209, 'x': 595}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:12:19.062339"}},{,{"frame":"2018-08-07 12:12:21.290933"}},{{'topleft': {'y': 117, 'x': 220}, 'confidence': 0.749669, 'bottomright': {'y': 286, 'x': 402}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:12:23.464266"}},{{'topleft': {'y': 177, 'x': 435}, 'confidence': 0.60112464, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:12:25.665549"}},{,{"frame":"2018-08-07 12:12:27.905465"}},{{'topleft': {'y': 116, 'x': 689}, 'confidence': 0.5600084, 'bottomright': {'y': 205, 'x': 799}, 'label': 'train'}
+{'topleft': {'y': 178, 'x': 432}, 'confidence': 0.5965359, 'bottomright': {'y': 207, 'x': 500}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:12:30.154640"}},{,{"frame":"2018-08-07 12:12:32.410968"}},{,{"frame":"2018-08-07 12:12:34.649465"}},{,{"frame":"2018-08-07 12:12:36.798059"}},{{'topleft': {'y': 178, 'x': 437}, 'confidence': 0.5995473, 'bottomright': {'y': 206, 'x': 497}, 'label': 'bench'}
+{'topleft': {'y': 178, 'x': 526}, 'confidence': 0.5599234, 'bottomright': {'y': 210, 'x': 595}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:12:38.977242"}},{{'topleft': {'y': 84, 'x': 732}, 'confidence': 0.56842613, 'bottomright': {'y': 170, 'x': 795}, 'label': 'person'}
+,{'topleft': {'y': 179, 'x': 346}, 'confidence': 0.5177281, 'bottomright': {'y': 206, 'x': 403}, 'label': 'bench'}
+{'topleft': {'y': 178, 'x': 436}, 'confidence': 0.516845, 'bottomright': {'y': 206, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:12:41.177284"}},{{'topleft': {'y': 178, 'x': 436}, 'confidence': 0.57513815, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+{'topleft': {'y': 178, 'x': 526}, 'confidence': 0.5144335, 'bottomright': {'y': 209, 'x': 594}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:12:43.412802"}},{,{"frame":"2018-08-07 12:12:45.639558"}},{{'topleft': {'y': 178, 'x': 436}, 'confidence': 0.5156732, 'bottomright': {'y': 208, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:12:47.869294"}},{,{"frame":"2018-08-07 12:12:50.104255"}},{,{"frame":"2018-08-07 12:12:52.326476"}},{{'topleft': {'y': 112, 'x': 170}, 'confidence': 0.7354987, 'bottomright': {'y': 205, 'x': 275}, 'label': 'truck'}
+{'topleft': {'y': 178, 'x': 437}, 'confidence': 0.5457417, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:12:54.511883"}},{{'topleft': {'y': 115, 'x': 198}, 'confidence': 0.8322306, 'bottomright': {'y': 255, 'x': 340}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:12:56.670456"}},{{'topleft': {'y': 114, 'x': 249}, 'confidence': 0.6900629, 'bottomright': {'y': 347, 'x': 491}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:12:58.930155"}},{,{"frame":"2018-08-07 12:13:01.162202"}},{{'topleft': {'y': 116, 'x': 90}, 'confidence': 0.5242503, 'bottomright': {'y': 177, 'x': 139}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:13:03.384339"}},{{'topleft': {'y': 107, 'x': 91}, 'confidence': 0.55635583, 'bottomright': {'y': 183, 'x': 143}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:13:05.638263"}},{,{"frame":"2018-08-07 12:13:07.886087"}},{{'topleft': {'y': 177, 'x': 435}, 'confidence': 0.61697644, 'bottomright': {'y': 206, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:13:10.116824"}},{{'topleft': {'y': 178, 'x': 434}, 'confidence': 0.59317815, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:13:12.343430"}},{{'topleft': {'y': 177, 'x': 434}, 'confidence': 0.63088983, 'bottomright': {'y': 208, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:13:14.606672"}},{{'topleft': {'y': 182, 'x': 709}, 'confidence': 0.6999133, 'bottomright': {'y': 218, 'x': 790}, 'label': 'car'}
+,{"frame":"2018-08-07 12:13:16.846991"}},{,{"frame":"2018-08-07 12:13:19.062351"}},{,{"frame":"2018-08-07 12:13:21.289908"}},{{'topleft': {'y': 178, 'x': 434}, 'confidence': 0.5791423, 'bottomright': {'y': 206, 'x': 499}, 'label': 'bench'}
+{'topleft': {'y': 179, 'x': 518}, 'confidence': 0.50295144, 'bottomright': {'y': 209, 'x': 596}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:13:23.514506"}},{,{"frame":"2018-08-07 12:13:25.752175"}},{,{"frame":"2018-08-07 12:13:27.983710"}},{,{"frame":"2018-08-07 12:13:30.198604"}},{,{"frame":"2018-08-07 12:13:32.419430"}},{,{"frame":"2018-08-07 12:13:34.515653"}},{{'topleft': {'y': 125, 'x': 121}, 'confidence': 0.54218173, 'bottomright': {'y': 283, 'x': 268}, 'label': 'truck'}
+{'topleft': {'y': 177, 'x': 528}, 'confidence': 0.5197503, 'bottomright': {'y': 209, 'x': 594}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:13:36.763386"}},{{'topleft': {'y': 136, 'x': 115}, 'confidence': 0.67794657, 'bottomright': {'y': 358, 'x': 335}, 'label': 'car'}
+,{"frame":"2018-08-07 12:13:39.013873"}},{{'topleft': {'y': 180, 'x': 717}, 'confidence': 0.54112124, 'bottomright': {'y': 218, 'x': 782}, 'label': 'car'}
+{'topleft': {'y': 113, 'x': 201}, 'confidence': 0.5095101, 'bottomright': {'y': 183, 'x': 278}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:13:41.251733"}},{{'topleft': {'y': 113, 'x': 203}, 'confidence': 0.67981035, 'bottomright': {'y': 253, 'x': 352}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:13:43.474241"}},{{'topleft': {'y': 188, 'x': 498}, 'confidence': 0.55118316, 'bottomright': {'y': 441, 'x': 722}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:13:45.686676"}},{,{"frame":"2018-08-07 12:13:47.910101"}},{,{"frame":"2018-08-07 12:13:50.149199"}},{{'topleft': {'y': 112, 'x': 681}, 'confidence': 0.57055855, 'bottomright': {'y': 207, 'x': 799}, 'label': 'train'}
+,{"frame":"2018-08-07 12:13:52.358038"}},{,{"frame":"2018-08-07 12:13:54.581600"}},{{'topleft': {'y': 178, 'x': 435}, 'confidence': 0.60949385, 'bottomright': {'y': 206, 'x': 500}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:13:56.811778"}},{,{"frame":"2018-08-07 12:13:59.030095"}},{{'topleft': {'y': 178, 'x': 436}, 'confidence': 0.52477854, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+{'topleft': {'y': 181, 'x': 605}, 'confidence': 0.5368088, 'bottomright': {'y': 211, 'x': 685}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:14:01.427416"}},{{'topleft': {'y': 178, 'x': 433}, 'confidence': 0.5296054, 'bottomright': {'y': 207, 'x': 501}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:14:04.295371"}},{{'topleft': {'y': 177, 'x': 434}, 'confidence': 0.6285382, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+{'topleft': {'y': 179, 'x': 605}, 'confidence': 0.50081545, 'bottomright': {'y': 211, 'x': 685}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:14:07.190590"}},{,{"frame":"2018-08-07 12:14:09.721558"}},{,{"frame":"2018-08-07 12:14:11.950561"}},{,{"frame":"2018-08-07 12:14:14.169541"}},{,{"frame":"2018-08-07 12:14:16.404663"}},{{'topleft': {'y': 178, 'x': 435}, 'confidence': 0.56468815, 'bottomright': {'y': 206, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:14:18.634029"}},{,{"frame":"2018-08-07 12:14:20.984880"}},{,{"frame":"2018-08-07 12:14:23.743792"}},{,{"frame":"2018-08-07 12:14:26.011278"}},{,{"frame":"2018-08-07 12:14:28.220402"}},{{'topleft': {'y': 177, 'x': 438}, 'confidence': 0.52988726, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:14:30.426596"}},{,{"frame":"2018-08-07 12:14:32.646130"}},{{'topleft': {'y': 177, 'x': 526}, 'confidence': 0.50094026, 'bottomright': {'y': 209, 'x': 594}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:14:34.894818"}},{{'topleft': {'y': 114, 'x': 223}, 'confidence': 0.5795625, 'bottomright': {'y': 248, 'x': 335}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:14:37.082241"}},{{'topleft': {'y': 139, 'x': 242}, 'confidence': 0.7762403, 'bottomright': {'y': 300, 'x': 418}, 'label': 'truck'}
+{'topleft': {'y': 137, 'x': 450}, 'confidence': 0.7013738, 'bottomright': {'y': 306, 'x': 600}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:14:39.194733"}},{,{"frame":"2018-08-07 12:14:41.451451"}},{{'topleft': {'y': 178, 'x': 437}, 'confidence': 0.61480373, 'bottomright': {'y': 207, 'x': 500}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:14:43.679767"}},{,{"frame":"2018-08-07 12:14:45.856966"}},{,{"frame":"2018-08-07 12:14:48.046250"}},{{'topleft': {'y': 156, 'x': 102}, 'confidence': 0.50474524, 'bottomright': {'y': 186, 'x': 117}, 'label': 'person'}
+,{'topleft': {'y': 177, 'x': 436}, 'confidence': 0.5937526, 'bottomright': {'y': 207, 'x': 500}, 'label': 'bench'}
+,{'topleft': {'y': 178, 'x': 522}, 'confidence': 0.54775745, 'bottomright': {'y': 209, 'x': 595}, 'label': 'bench'}
+{'topleft': {'y': 179, 'x': 602}, 'confidence': 0.51260906, 'bottomright': {'y': 208, 'x': 685}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:14:50.243902"}},{{'topleft': {'y': 177, 'x': 438}, 'confidence': 0.5110217, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:14:52.445181"}},{{'topleft': {'y': 177, 'x': 434}, 'confidence': 0.5733524, 'bottomright': {'y': 207, 'x': 497}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:14:54.678675"}},{,{"frame":"2018-08-07 12:14:56.896672"}},{{'topleft': {'y': 178, 'x': 434}, 'confidence': 0.5777265, 'bottomright': {'y': 206, 'x': 500}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:14:59.113867"}},{,{"frame":"2018-08-07 12:15:01.361794"}},{{'topleft': {'y': 131, 'x': 146}, 'confidence': 0.5120526, 'bottomright': {'y': 186, 'x': 174}, 'label': 'person'}
+{'topleft': {'y': 179, 'x': 434}, 'confidence': 0.55752033, 'bottomright': {'y': 206, 'x': 500}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:15:03.593088"}},{{'topleft': {'y': 181, 'x': 602}, 'confidence': 0.5069297, 'bottomright': {'y': 211, 'x': 685}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:15:05.821319"}},{{'topleft': {'y': 115, 'x': 190}, 'confidence': 0.5307676, 'bottomright': {'y': 192, 'x': 270}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:15:08.076997"}},{,{"frame":"2018-08-07 12:15:10.313303"}},{,{"frame":"2018-08-07 12:15:12.560828"}},{,{"frame":"2018-08-07 12:15:14.791807"}},{,{"frame":"2018-08-07 12:15:17.013652"}},{{'topleft': {'y': 105, 'x': 231}, 'confidence': 0.5261981, 'bottomright': {'y': 306, 'x': 463}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:15:19.242055"}},{,{"frame":"2018-08-07 12:15:21.470116"}},{,{"frame":"2018-08-07 12:15:23.692493"}},{{'topleft': {'y': 176, 'x': 604}, 'confidence': 0.5919732, 'bottomright': {'y': 210, 'x': 687}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:15:25.908421"}},{,{"frame":"2018-08-07 12:15:28.151918"}},{,{"frame":"2018-08-07 12:15:30.365749"}},{{'topleft': {'y': 177, 'x': 437}, 'confidence': 0.52204716, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+{'topleft': {'y': 177, 'x': 525}, 'confidence': 0.50219804, 'bottomright': {'y': 209, 'x': 596}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:15:32.597271"}},{{'topleft': {'y': 105, 'x': 82}, 'confidence': 0.6841139, 'bottomright': {'y': 188, 'x': 136}, 'label': 'bus'}
+{'topleft': {'y': 177, 'x': 435}, 'confidence': 0.52735335, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:15:34.845089"}},{{'topleft': {'y': 103, 'x': 82}, 'confidence': 0.73255104, 'bottomright': {'y': 190, 'x': 138}, 'label': 'bus'}
+{'topleft': {'y': 178, 'x': 437}, 'confidence': 0.53075355, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:15:37.075767"}},{{'topleft': {'y': 105, 'x': 78}, 'confidence': 0.58011794, 'bottomright': {'y': 187, 'x': 145}, 'label': 'bus'}
+{'topleft': {'y': 115, 'x': 207}, 'confidence': 0.7956113, 'bottomright': {'y': 248, 'x': 352}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:15:39.294775"}},{{'topleft': {'y': 176, 'x': 155}, 'confidence': 0.5205708, 'bottomright': {'y': 212, 'x': 193}, 'label': 'bicycle'}
+{'topleft': {'y': 105, 'x': 81}, 'confidence': 0.64354247, 'bottomright': {'y': 185, 'x': 144}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:15:41.537630"}},{{'topleft': {'y': 106, 'x': 81}, 'confidence': 0.5244118, 'bottomright': {'y': 186, 'x': 147}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:15:43.747920"}},{{'topleft': {'y': 108, 'x': 78}, 'confidence': 0.5726344, 'bottomright': {'y': 185, 'x': 147}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:15:45.975340"}},{{'topleft': {'y': 112, 'x': 83}, 'confidence': 0.500999, 'bottomright': {'y': 184, 'x': 152}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:15:48.180861"}},{{'topleft': {'y': 106, 'x': 83}, 'confidence': 0.5411021, 'bottomright': {'y': 187, 'x': 150}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:15:50.405513"}},{{'topleft': {'y': 107, 'x': 85}, 'confidence': 0.5936282, 'bottomright': {'y': 184, 'x': 144}, 'label': 'bus'}
+{'topleft': {'y': 177, 'x': 438}, 'confidence': 0.5254626, 'bottomright': {'y': 206, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:15:52.631754"}},{{'topleft': {'y': 108, 'x': 83}, 'confidence': 0.6503948, 'bottomright': {'y': 185, 'x': 143}, 'label': 'bus'}
+{'topleft': {'y': 176, 'x': 435}, 'confidence': 0.52203107, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:15:54.875588"}},{{'topleft': {'y': 107, 'x': 83}, 'confidence': 0.5997517, 'bottomright': {'y': 188, 'x': 140}, 'label': 'bus'}
+{'topleft': {'y': 177, 'x': 435}, 'confidence': 0.535542, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:15:57.106423"}},{{'topleft': {'y': 105, 'x': 80}, 'confidence': 0.5845391, 'bottomright': {'y': 187, 'x': 148}, 'label': 'bus'}
+,{'topleft': {'y': 125, 'x': 204}, 'confidence': 0.550286, 'bottomright': {'y': 266, 'x': 295}, 'label': 'truck'}
+{'topleft': {'y': 177, 'x': 437}, 'confidence': 0.5580791, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:15:59.315902"}},{{'topleft': {'y': 180, 'x': 274}, 'confidence': 0.54211545, 'bottomright': {'y': 209, 'x': 306}, 'label': 'car'}
+{'topleft': {'y': 127, 'x': 100}, 'confidence': 0.55169386, 'bottomright': {'y': 332, 'x': 255}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:16:01.467724"}},{,{"frame":"2018-08-07 12:16:03.663117"}},{{'topleft': {'y': 177, 'x': 437}, 'confidence': 0.55478567, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:16:05.888208"}},{,{"frame":"2018-08-07 12:16:08.128395"}},{{'topleft': {'y': 105, 'x': 81}, 'confidence': 0.6469588, 'bottomright': {'y': 186, 'x': 147}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:16:10.383798"}},{{'topleft': {'y': 104, 'x': 79}, 'confidence': 0.6330351, 'bottomright': {'y': 187, 'x': 149}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:16:12.597819"}},{{'topleft': {'y': 106, 'x': 80}, 'confidence': 0.615821, 'bottomright': {'y': 185, 'x': 147}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:16:14.817485"}},{{'topleft': {'y': 107, 'x': 79}, 'confidence': 0.5809999, 'bottomright': {'y': 186, 'x': 148}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:16:17.042943"}},{{'topleft': {'y': 106, 'x': 78}, 'confidence': 0.65915465, 'bottomright': {'y': 186, 'x': 150}, 'label': 'bus'}
+{'topleft': {'y': 177, 'x': 434}, 'confidence': 0.6209267, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:16:19.261566"}},{{'topleft': {'y': 104, 'x': 77}, 'confidence': 0.6878891, 'bottomright': {'y': 186, 'x': 149}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:16:21.500545"}},{{'topleft': {'y': 107, 'x': 82}, 'confidence': 0.6062316, 'bottomright': {'y': 185, 'x': 146}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:16:23.752745"}},{{'topleft': {'y': 106, 'x': 79}, 'confidence': 0.66012174, 'bottomright': {'y': 186, 'x': 151}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:16:25.958536"}},{{'topleft': {'y': 105, 'x': 79}, 'confidence': 0.63548315, 'bottomright': {'y': 187, 'x': 151}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:16:28.175069"}},{{'topleft': {'y': 177, 'x': 687}, 'confidence': 0.58121264, 'bottomright': {'y': 208, 'x': 760}, 'label': 'car'}
+{'topleft': {'y': 105, 'x': 79}, 'confidence': 0.66292727, 'bottomright': {'y': 188, 'x': 149}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:16:30.392742"}},{{'topleft': {'y': 105, 'x': 78}, 'confidence': 0.5858681, 'bottomright': {'y': 187, 'x': 149}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:16:32.620100"}},{{'topleft': {'y': 106, 'x': 80}, 'confidence': 0.5620368, 'bottomright': {'y': 185, 'x': 147}, 'label': 'bus'}
+{'topleft': {'y': 178, 'x': 434}, 'confidence': 0.5570939, 'bottomright': {'y': 206, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:16:34.842475"}},{{'topleft': {'y': 106, 'x': 80}, 'confidence': 0.60923743, 'bottomright': {'y': 186, 'x': 148}, 'label': 'bus'}
+{'topleft': {'y': 178, 'x': 435}, 'confidence': 0.50746894, 'bottomright': {'y': 206, 'x': 497}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:16:37.057797"}},{{'topleft': {'y': 107, 'x': 77}, 'confidence': 0.54183173, 'bottomright': {'y': 184, 'x': 148}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:16:39.173384"}},{{'topleft': {'y': 102, 'x': 81}, 'confidence': 0.7195899, 'bottomright': {'y': 188, 'x': 148}, 'label': 'bus'}
+{'topleft': {'y': 178, 'x': 438}, 'confidence': 0.5572512, 'bottomright': {'y': 206, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:16:41.412618"}},{{'topleft': {'y': 107, 'x': 78}, 'confidence': 0.5487642, 'bottomright': {'y': 187, 'x': 151}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:16:43.625678"}},{{'topleft': {'y': 107, 'x': 80}, 'confidence': 0.55375415, 'bottomright': {'y': 184, 'x': 143}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:16:45.830213"}},{{'topleft': {'y': 108, 'x': 86}, 'confidence': 0.5843389, 'bottomright': {'y': 184, 'x': 146}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:16:48.072611"}},{{'topleft': {'y': 105, 'x': 78}, 'confidence': 0.5096197, 'bottomright': {'y': 186, 'x': 148}, 'label': 'bus'}
+,{'topleft': {'y': 178, 'x': 437}, 'confidence': 0.50755256, 'bottomright': {'y': 208, 'x': 500}, 'label': 'bench'}
+{'topleft': {'y': 178, 'x': 524}, 'confidence': 0.5389947, 'bottomright': {'y': 209, 'x': 596}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:16:50.289743"}},{{'topleft': {'y': 178, 'x': 436}, 'confidence': 0.5206965, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:16:52.514306"}},{{'topleft': {'y': 106, 'x': 80}, 'confidence': 0.6023124, 'bottomright': {'y': 183, 'x': 149}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:16:54.768560"}},{{'topleft': {'y': 110, 'x': 80}, 'confidence': 0.54966646, 'bottomright': {'y': 185, 'x': 145}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:16:56.996850"}},{,{"frame":"2018-08-07 12:16:59.229128"}},{{'topleft': {'y': 174, 'x': 152}, 'confidence': 0.56003696, 'bottomright': {'y': 211, 'x': 195}, 'label': 'bicycle'}
+,{'topleft': {'y': 107, 'x': 82}, 'confidence': 0.5784923, 'bottomright': {'y': 184, 'x': 144}, 'label': 'bus'}
+{'topleft': {'y': 178, 'x': 438}, 'confidence': 0.5043757, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:17:01.454721"}},{{'topleft': {'y': 176, 'x': 150}, 'confidence': 0.522381, 'bottomright': {'y': 211, 'x': 195}, 'label': 'bicycle'}
+,{'topleft': {'y': 104, 'x': 84}, 'confidence': 0.6463335, 'bottomright': {'y': 187, 'x': 145}, 'label': 'bus'}
+,{'topleft': {'y': 178, 'x': 438}, 'confidence': 0.5607004, 'bottomright': {'y': 207, 'x': 501}, 'label': 'bench'}
+{'topleft': {'y': 178, 'x': 525}, 'confidence': 0.5459598, 'bottomright': {'y': 208, 'x': 594}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:17:03.675165"}},{{'topleft': {'y': 106, 'x': 81}, 'confidence': 0.6302332, 'bottomright': {'y': 185, 'x': 148}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:17:05.910066"}},{{'topleft': {'y': 108, 'x': 82}, 'confidence': 0.59764457, 'bottomright': {'y': 184, 'x': 144}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:17:08.141199"}},{{'topleft': {'y': 106, 'x': 83}, 'confidence': 0.6392308, 'bottomright': {'y': 185, 'x': 143}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:17:10.397369"}},{{'topleft': {'y': 108, 'x': 81}, 'confidence': 0.7042011, 'bottomright': {'y': 185, 'x': 144}, 'label': 'bus'}
+{'topleft': {'y': 120, 'x': 162}, 'confidence': 0.5881227, 'bottomright': {'y': 186, 'x': 235}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:17:12.631086"}},{{'topleft': {'y': 178, 'x': 436}, 'confidence': 0.55346626, 'bottomright': {'y': 207, 'x': 500}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:17:14.909635"}},{,{"frame":"2018-08-07 12:17:17.157846"}},{{'topleft': {'y': 123, 'x': 240}, 'confidence': 0.6269703, 'bottomright': {'y': 271, 'x': 373}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:17:19.388430"}},{,{"frame":"2018-08-07 12:17:21.624298"}},{,{"frame":"2018-08-07 12:17:23.856055"}},{{'topleft': {'y': 235, 'x': 486}, 'confidence': 0.52571315, 'bottomright': {'y': 310, 'x': 568}, 'label': 'car'}
+,{"frame":"2018-08-07 12:17:26.109725"}},{,{"frame":"2018-08-07 12:17:28.352278"}},{{'topleft': {'y': 133, 'x': 130}, 'confidence': 0.5571699, 'bottomright': {'y': 315, 'x': 253}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:17:30.575875"}},{{'topleft': {'y': 177, 'x': 437}, 'confidence': 0.527015, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:17:32.798724"}},{,{"frame":"2018-08-07 12:17:35.017638"}},{{'topleft': {'y': 178, 'x': 434}, 'confidence': 0.5929688, 'bottomright': {'y': 208, 'x': 500}, 'label': 'bench'}
+{'topleft': {'y': 177, 'x': 526}, 'confidence': 0.53098685, 'bottomright': {'y': 210, 'x': 596}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:17:37.129185"}},{,{"frame":"2018-08-07 12:17:39.371800"}},{{'topleft': {'y': 177, 'x': 436}, 'confidence': 0.5045786, 'bottomright': {'y': 208, 'x': 500}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:17:41.597855"}},{,{"frame":"2018-08-07 12:17:43.847484"}},{{'topleft': {'y': 178, 'x': 435}, 'confidence': 0.58549565, 'bottomright': {'y': 207, 'x': 500}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:17:46.075418"}},{{'topleft': {'y': 178, 'x': 435}, 'confidence': 0.5560364, 'bottomright': {'y': 206, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:17:48.297283"}},{{'topleft': {'y': 179, 'x': 435}, 'confidence': 0.5371567, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:17:50.535351"}},{,{"frame":"2018-08-07 12:17:52.752694"}},{{'topleft': {'y': 176, 'x': 438}, 'confidence': 0.5517818, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:17:54.976704"}},{{'topleft': {'y': 177, 'x': 435}, 'confidence': 0.627056, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{'topleft': {'y': 176, 'x': 525}, 'confidence': 0.5182965, 'bottomright': {'y': 211, 'x': 598}, 'label': 'bench'}
+{'topleft': {'y': 180, 'x': 603}, 'confidence': 0.5399938, 'bottomright': {'y': 210, 'x': 688}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:17:57.197096"}},{,{"frame":"2018-08-07 12:17:59.418051"}},{,{"frame":"2018-08-07 12:18:01.641695"}},{,{"frame":"2018-08-07 12:18:03.878115"}},{,{"frame":"2018-08-07 12:18:06.113059"}},{,{"frame":"2018-08-07 12:18:08.347389"}},{{'topleft': {'y': 108, 'x': 192}, 'confidence': 0.5452349, 'bottomright': {'y': 252, 'x': 340}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:18:10.587128"}},{{'topleft': {'y': 131, 'x': 233}, 'confidence': 0.7043942, 'bottomright': {'y': 303, 'x': 427}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:18:12.828485"}},{,{"frame":"2018-08-07 12:18:14.985888"}},{{'topleft': {'y': 177, 'x': 436}, 'confidence': 0.5907522, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:18:17.208566"}},{,{"frame":"2018-08-07 12:18:19.425797"}},{{'topleft': {'y': 130, 'x': 144}, 'confidence': 0.5615056, 'bottomright': {'y': 185, 'x': 177}, 'label': 'person'}
+{'topleft': {'y': 176, 'x': 436}, 'confidence': 0.589949, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:18:21.648579"}},{{'topleft': {'y': 178, 'x': 436}, 'confidence': 0.57522804, 'bottomright': {'y': 208, 'x': 498}, 'label': 'bench'}
+{'topleft': {'y': 178, 'x': 526}, 'confidence': 0.5018695, 'bottomright': {'y': 210, 'x': 597}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:18:23.871336"}},{{'topleft': {'y': 177, 'x': 435}, 'confidence': 0.6067823, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:18:26.102081"}},{,{"frame":"2018-08-07 12:18:28.283323"}},{{'topleft': {'y': 176, 'x': 703}, 'confidence': 0.53362185, 'bottomright': {'y': 210, 'x': 770}, 'label': 'car'}
+{'topleft': {'y': 177, 'x': 436}, 'confidence': 0.5208983, 'bottomright': {'y': 208, 'x': 500}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:18:30.468347"}},{{'topleft': {'y': 133, 'x': 141}, 'confidence': 0.50629413, 'bottomright': {'y': 183, 'x': 177}, 'label': 'person'}
+{'topleft': {'y': 177, 'x': 434}, 'confidence': 0.60901284, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:18:32.680797"}},{{'topleft': {'y': 178, 'x': 435}, 'confidence': 0.60799176, 'bottomright': {'y': 207, 'x': 497}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:18:34.924428"}},{,{"frame":"2018-08-07 12:18:37.130719"}},{,{"frame":"2018-08-07 12:18:39.249587"}},{{'topleft': {'y': 133, 'x': 142}, 'confidence': 0.5057558, 'bottomright': {'y': 182, 'x': 176}, 'label': 'person'}
+,{"frame":"2018-08-07 12:18:41.526451"}},{{'topleft': {'y': 177, 'x': 436}, 'confidence': 0.55308825, 'bottomright': {'y': 208, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:18:43.750607"}},{{'topleft': {'y': 178, 'x': 438}, 'confidence': 0.5533921, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:18:45.988113"}},{{'topleft': {'y': 149, 'x': 75}, 'confidence': 0.6575131, 'bottomright': {'y': 168, 'x': 108}, 'label': 'car'}
+,{"frame":"2018-08-07 12:18:48.260834"}},{,{"frame":"2018-08-07 12:18:50.403167"}},{{'topleft': {'y': 158, 'x': 96}, 'confidence': 0.55192626, 'bottomright': {'y': 183, 'x': 130}, 'label': 'car'}
+{'topleft': {'y': 177, 'x': 437}, 'confidence': 0.5343548, 'bottomright': {'y': 208, 'x': 501}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:18:52.631087"}},{{'topleft': {'y': 153, 'x': 93}, 'confidence': 0.6064859, 'bottomright': {'y': 187, 'x': 141}, 'label': 'car'}
+{'topleft': {'y': 176, 'x': 434}, 'confidence': 0.6331159, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:18:54.864436"}},{{'topleft': {'y': 152, 'x': 100}, 'confidence': 0.5511726, 'bottomright': {'y': 186, 'x': 141}, 'label': 'car'}
+{'topleft': {'y': 177, 'x': 436}, 'confidence': 0.58362895, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:18:57.052398"}},{{'topleft': {'y': 152, 'x': 103}, 'confidence': 0.5103472, 'bottomright': {'y': 186, 'x': 140}, 'label': 'car'}
+{'topleft': {'y': 180, 'x': 271}, 'confidence': 0.5096239, 'bottomright': {'y': 207, 'x': 302}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:18:59.285614"}},{{'topleft': {'y': 180, 'x': 268}, 'confidence': 0.5034738, 'bottomright': {'y': 207, 'x': 302}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:19:01.514419"}},{,{"frame":"2018-08-07 12:19:03.728517"}},{{'topleft': {'y': 154, 'x': 101}, 'confidence': 0.6616716, 'bottomright': {'y': 188, 'x': 142}, 'label': 'car'}
+,{"frame":"2018-08-07 12:19:05.933849"}},{{'topleft': {'y': 178, 'x': 125}, 'confidence': 0.74600065, 'bottomright': {'y': 231, 'x': 182}, 'label': 'car'}
+,{"frame":"2018-08-07 12:19:08.163377"}},{{'topleft': {'y': 189, 'x': 146}, 'confidence': 0.5212816, 'bottomright': {'y': 256, 'x': 209}, 'label': 'car'}
+,{"frame":"2018-08-07 12:19:10.856745"}},{{'topleft': {'y': 133, 'x': 143}, 'confidence': 0.5253789, 'bottomright': {'y': 184, 'x': 176}, 'label': 'person'}
+{'topleft': {'y': 247, 'x': 225}, 'confidence': 0.7314293, 'bottomright': {'y': 327, 'x': 332}, 'label': 'car'}
+,{"frame":"2018-08-07 12:19:13.490988"}},{{'topleft': {'y': 114, 'x': 250}, 'confidence': 0.7160579, 'bottomright': {'y': 213, 'x': 394}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:19:16.335126"}},{{'topleft': {'y': 107, 'x': 246}, 'confidence': 0.6249315, 'bottomright': {'y': 233, 'x': 406}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:19:19.246755"}},{,{"frame":"2018-08-07 12:19:21.348638"}},{{'topleft': {'y': 133, 'x': 143}, 'confidence': 0.50016016, 'bottomright': {'y': 182, 'x': 176}, 'label': 'person'}
+,{"frame":"2018-08-07 12:19:23.534640"}},{,{"frame":"2018-08-07 12:19:25.636842"}},{{'topleft': {'y': 177, 'x': 523}, 'confidence': 0.5216727, 'bottomright': {'y': 209, 'x': 594}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:19:27.750404"}},{{'topleft': {'y': 177, 'x': 436}, 'confidence': 0.5673782, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:19:29.827022"}},{{'topleft': {'y': 177, 'x': 433}, 'confidence': 0.6303227, 'bottomright': {'y': 207, 'x': 500}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:19:31.789058"}},{{'topleft': {'y': 133, 'x': 143}, 'confidence': 0.5156037, 'bottomright': {'y': 184, 'x': 177}, 'label': 'person'}
+,{"frame":"2018-08-07 12:19:33.893533"}},{,{"frame":"2018-08-07 12:19:35.980990"}},{,{"frame":"2018-08-07 12:19:38.042617"}},{{'topleft': {'y': 177, 'x': 435}, 'confidence': 0.5150354, 'bottomright': {'y': 207, 'x': 497}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:19:40.114037"}},{,{"frame":"2018-08-07 12:19:42.171181"}},{{'topleft': {'y': 177, 'x': 438}, 'confidence': 0.5424558, 'bottomright': {'y': 207, 'x': 500}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:19:44.243169"}},{{'topleft': {'y': 178, 'x': 436}, 'confidence': 0.5310322, 'bottomright': {'y': 207, 'x': 500}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:19:46.322552"}},{{'topleft': {'y': 177, 'x': 434}, 'confidence': 0.6380739, 'bottomright': {'y': 207, 'x': 497}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:19:48.396928"}},{{'topleft': {'y': 177, 'x': 437}, 'confidence': 0.5451893, 'bottomright': {'y': 207, 'x': 500}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:19:50.493813"}},{,{"frame":"2018-08-07 12:19:52.564352"}},{{'topleft': {'y': 177, 'x': 433}, 'confidence': 0.5781188, 'bottomright': {'y': 208, 'x': 500}, 'label': 'bench'}
+,{'topleft': {'y': 178, 'x': 525}, 'confidence': 0.5284292, 'bottomright': {'y': 209, 'x': 595}, 'label': 'bench'}
+{'topleft': {'y': 179, 'x': 602}, 'confidence': 0.5642076, 'bottomright': {'y': 210, 'x': 686}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:19:54.623125"}},{{'topleft': {'y': 177, 'x': 435}, 'confidence': 0.6132625, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:19:56.707473"}},{,{"frame":"2018-08-07 12:19:58.753157"}},{,{"frame":"2018-08-07 12:20:00.835234"}},{,{"frame":"2018-08-07 12:20:02.921464"}},{,{"frame":"2018-08-07 12:20:04.993555"}},{{'topleft': {'y': 177, 'x': 438}, 'confidence': 0.5006855, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:20:07.053148"}},{,{"frame":"2018-08-07 12:20:09.117247"}},{{'topleft': {'y': 176, 'x': 433}, 'confidence': 0.52620506, 'bottomright': {'y': 207, 'x': 500}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:20:11.164337"}},{{'topleft': {'y': 178, 'x': 435}, 'confidence': 0.60906035, 'bottomright': {'y': 207, 'x': 497}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:20:13.237190"}},{,{"frame":"2018-08-07 12:20:15.312699"}},{{'topleft': {'y': 178, 'x': 434}, 'confidence': 0.60820884, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:20:17.367477"}},{{'topleft': {'y': 177, 'x': 434}, 'confidence': 0.5340256, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:20:19.441363"}},{{'topleft': {'y': 107, 'x': 81}, 'confidence': 0.55129415, 'bottomright': {'y': 190, 'x': 143}, 'label': 'bus'}
+,{'topleft': {'y': 177, 'x': 433}, 'confidence': 0.6484338, 'bottomright': {'y': 206, 'x': 500}, 'label': 'bench'}
+,{'topleft': {'y': 176, 'x': 526}, 'confidence': 0.5387158, 'bottomright': {'y': 209, 'x': 594}, 'label': 'bench'}
+{'topleft': {'y': 180, 'x': 602}, 'confidence': 0.6085471, 'bottomright': {'y': 210, 'x': 685}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:20:21.518687"}},{{'topleft': {'y': 103, 'x': 79}, 'confidence': 0.51232994, 'bottomright': {'y': 191, 'x': 145}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:20:23.569536"}},{{'topleft': {'y': 110, 'x': 82}, 'confidence': 0.5194258, 'bottomright': {'y': 187, 'x': 139}, 'label': 'bus'}
+,{'topleft': {'y': 177, 'x': 436}, 'confidence': 0.5687411, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+{'topleft': {'y': 181, 'x': 602}, 'confidence': 0.50409114, 'bottomright': {'y': 210, 'x': 684}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:20:25.625707"}},{{'topleft': {'y': 176, 'x': 437}, 'confidence': 0.6314623, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{'topleft': {'y': 177, 'x': 527}, 'confidence': 0.5366163, 'bottomright': {'y': 209, 'x': 594}, 'label': 'bench'}
+{'topleft': {'y': 181, 'x': 599}, 'confidence': 0.62129533, 'bottomright': {'y': 209, 'x': 682}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:20:27.705202"}},{{'topleft': {'y': 104, 'x': 82}, 'confidence': 0.5958106, 'bottomright': {'y': 190, 'x': 141}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:20:29.766468"}},{{'topleft': {'y': 105, 'x': 84}, 'confidence': 0.557873, 'bottomright': {'y': 188, 'x': 144}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:20:31.827851"}},{{'topleft': {'y': 102, 'x': 83}, 'confidence': 0.6029632, 'bottomright': {'y': 189, 'x': 145}, 'label': 'bus'}
+{'topleft': {'y': 176, 'x': 434}, 'confidence': 0.51918674, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:20:33.901285"}},{{'topleft': {'y': 104, 'x': 83}, 'confidence': 0.56002766, 'bottomright': {'y': 188, 'x': 142}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:20:35.972423"}},{{'topleft': {'y': 106, 'x': 81}, 'confidence': 0.62380207, 'bottomright': {'y': 188, 'x': 145}, 'label': 'bus'}
+{'topleft': {'y': 176, 'x': 523}, 'confidence': 0.5160938, 'bottomright': {'y': 208, 'x': 594}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:20:37.983072"}},{{'topleft': {'y': 106, 'x': 83}, 'confidence': 0.5713609, 'bottomright': {'y': 188, 'x': 146}, 'label': 'bus'}
+{'topleft': {'y': 178, 'x': 433}, 'confidence': 0.5555817, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:20:40.052518"}},{{'topleft': {'y': 103, 'x': 81}, 'confidence': 0.560877, 'bottomright': {'y': 189, 'x': 147}, 'label': 'bus'}
+{'topleft': {'y': 178, 'x': 526}, 'confidence': 0.5210526, 'bottomright': {'y': 208, 'x': 597}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:20:42.117586"}},{{'topleft': {'y': 173, 'x': 689}, 'confidence': 0.6388453, 'bottomright': {'y': 210, 'x': 766}, 'label': 'car'}
+{'topleft': {'y': 103, 'x': 81}, 'confidence': 0.65663636, 'bottomright': {'y': 191, 'x': 146}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:20:44.188171"}},{{'topleft': {'y': 105, 'x': 80}, 'confidence': 0.59449714, 'bottomright': {'y': 190, 'x': 148}, 'label': 'bus'}
+{'topleft': {'y': 178, 'x': 434}, 'confidence': 0.53682965, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:20:46.254295"}},{{'topleft': {'y': 102, 'x': 82}, 'confidence': 0.59857553, 'bottomright': {'y': 190, 'x': 146}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:20:48.318908"}},{{'topleft': {'y': 104, 'x': 81}, 'confidence': 0.6338959, 'bottomright': {'y': 191, 'x': 145}, 'label': 'bus'}
+{'topleft': {'y': 178, 'x': 433}, 'confidence': 0.65988034, 'bottomright': {'y': 207, 'x': 500}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:20:50.380312"}},{,{"frame":"2018-08-07 12:20:52.455914"}},{{'topleft': {'y': 178, 'x': 437}, 'confidence': 0.5357819, 'bottomright': {'y': 209, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:20:54.536487"}},{{'topleft': {'y': 176, 'x': 436}, 'confidence': 0.50789124, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+{'topleft': {'y': 177, 'x': 528}, 'confidence': 0.51935434, 'bottomright': {'y': 209, 'x': 596}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:20:56.613982"}},{,{"frame":"2018-08-07 12:20:58.672874"}},{{'topleft': {'y': 110, 'x': 81}, 'confidence': 0.5039871, 'bottomright': {'y': 189, 'x': 143}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:21:00.738376"}},{{'topleft': {'y': 104, 'x': 82}, 'confidence': 0.59133923, 'bottomright': {'y': 190, 'x': 146}, 'label': 'bus'}
+{'topleft': {'y': 178, 'x': 434}, 'confidence': 0.61165816, 'bottomright': {'y': 207, 'x': 500}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:21:02.798392"}},{{'topleft': {'y': 109, 'x': 82}, 'confidence': 0.56695783, 'bottomright': {'y': 188, 'x': 142}, 'label': 'bus'}
+{'topleft': {'y': 178, 'x': 435}, 'confidence': 0.5757358, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:21:04.870177"}},{{'topleft': {'y': 104, 'x': 79}, 'confidence': 0.571874, 'bottomright': {'y': 190, 'x': 145}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:21:06.948963"}},{{'topleft': {'y': 103, 'x': 78}, 'confidence': 0.5498973, 'bottomright': {'y': 190, 'x': 150}, 'label': 'bus'}
+{'topleft': {'y': 177, 'x': 438}, 'confidence': 0.57785493, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:21:09.009745"}},{,{"frame":"2018-08-07 12:21:11.087288"}},{,{"frame":"2018-08-07 12:21:13.166841"}},{{'topleft': {'y': 108, 'x': 84}, 'confidence': 0.5876071, 'bottomright': {'y': 198, 'x': 150}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:21:15.243846"}},{,{"frame":"2018-08-07 12:21:17.317125"}},{{'topleft': {'y': 177, 'x': 435}, 'confidence': 0.5153026, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:21:19.386216"}},{,{"frame":"2018-08-07 12:21:21.461795"}},{{'topleft': {'y': 111, 'x': 203}, 'confidence': 0.50979114, 'bottomright': {'y': 201, 'x': 266}, 'label': 'bus'}
+{'topleft': {'y': 177, 'x': 436}, 'confidence': 0.56475306, 'bottomright': {'y': 207, 'x': 500}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:21:23.515198"}},{{'topleft': {'y': 116, 'x': 97}, 'confidence': 0.5442986, 'bottomright': {'y': 237, 'x': 179}, 'label': 'truck'}
+{'topleft': {'y': 110, 'x': 203}, 'confidence': 0.57492554, 'bottomright': {'y': 244, 'x': 339}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:21:25.583119"}},{{'topleft': {'y': 139, 'x': 55}, 'confidence': 0.51404816, 'bottomright': {'y': 258, 'x': 156}, 'label': 'truck'}
+{'topleft': {'y': 125, 'x': 261}, 'confidence': 0.50047547, 'bottomright': {'y': 330, 'x': 562}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:21:27.667154"}},{{'topleft': {'y': 154, 'x': 435}, 'confidence': 0.60198855, 'bottomright': {'y': 430, 'x': 780}, 'label': 'train'}
+,{"frame":"2018-08-07 12:21:29.716558"}},{{'topleft': {'y': 177, 'x': 436}, 'confidence': 0.51606965, 'bottomright': {'y': 209, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:21:31.763808"}},{{'topleft': {'y': 156, 'x': 0}, 'confidence': 0.5369195, 'bottomright': {'y': 379, 'x': 120}, 'label': 'car'}
+,{"frame":"2018-08-07 12:21:33.823515"}},{{'topleft': {'y': 177, 'x': 435}, 'confidence': 0.6149344, 'bottomright': {'y': 208, 'x': 497}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:21:35.875138"}},{{'topleft': {'y': 178, 'x': 436}, 'confidence': 0.56170464, 'bottomright': {'y': 206, 'x': 500}, 'label': 'bench'}
+{'topleft': {'y': 178, 'x': 526}, 'confidence': 0.534608, 'bottomright': {'y': 209, 'x': 596}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:21:37.958497"}},{{'topleft': {'y': 117, 'x': 147}, 'confidence': 0.6314178, 'bottomright': {'y': 197, 'x': 262}, 'label': 'truck'}
+{'topleft': {'y': 177, 'x': 433}, 'confidence': 0.658025, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:21:40.015999"}},{{'topleft': {'y': 113, 'x': 173}, 'confidence': 0.59443635, 'bottomright': {'y': 223, 'x': 287}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:21:42.095426"}},{{'topleft': {'y': 112, 'x': 198}, 'confidence': 0.67128336, 'bottomright': {'y': 239, 'x': 321}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:21:44.153011"}},{{'topleft': {'y': 124, 'x': 209}, 'confidence': 0.66067725, 'bottomright': {'y': 268, 'x': 369}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:21:46.209201"}},{{'topleft': {'y': 132, 'x': 288}, 'confidence': 0.5588343, 'bottomright': {'y': 311, 'x': 436}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:21:48.263537"}},{{'topleft': {'y': 144, 'x': 292}, 'confidence': 0.5811575, 'bottomright': {'y': 397, 'x': 563}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:21:50.316919"}},{,{"frame":"2018-08-07 12:21:52.381023"}},{{'topleft': {'y': 176, 'x': 435}, 'confidence': 0.60235345, 'bottomright': {'y': 207, 'x': 500}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:21:54.441219"}},{,{"frame":"2018-08-07 12:21:56.503066"}},{,{"frame":"2018-08-07 12:21:58.556758"}},{,{"frame":"2018-08-07 12:22:00.570237"}},{{'topleft': {'y': 178, 'x': 437}, 'confidence': 0.58207065, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:22:02.581106"}},{,{"frame":"2018-08-07 12:22:04.654246"}},{{'topleft': {'y': 199, 'x': 7}, 'confidence': 0.56695324, 'bottomright': {'y': 437, 'x': 182}, 'label': 'bus'}
+{'topleft': {'y': 177, 'x': 437}, 'confidence': 0.5682863, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:22:06.762545"}},{{'topleft': {'y': 113, 'x': 166}, 'confidence': 0.5038236, 'bottomright': {'y': 203, 'x': 274}, 'label': 'truck'}
+{'topleft': {'y': 177, 'x': 435}, 'confidence': 0.600325, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:22:08.827336"}},{,{"frame":"2018-08-07 12:22:10.877208"}},{{'topleft': {'y': 114, 'x': 196}, 'confidence': 0.8112833, 'bottomright': {'y': 240, 'x': 340}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:22:12.944276"}},{{'topleft': {'y': 127, 'x': 237}, 'confidence': 0.81704354, 'bottomright': {'y': 285, 'x': 414}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:22:15.042127"}},{{'topleft': {'y': 143, 'x': 311}, 'confidence': 0.6148035, 'bottomright': {'y': 404, 'x': 589}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:22:17.097823"}},{,{"frame":"2018-08-07 12:22:19.157788"}},{,{"frame":"2018-08-07 12:22:21.236829"}},{,{"frame":"2018-08-07 12:22:23.312249"}},{{'topleft': {'y': 178, 'x': 436}, 'confidence': 0.5048701, 'bottomright': {'y': 206, 'x': 496}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:22:25.366454"}},{{'topleft': {'y': 178, 'x': 436}, 'confidence': 0.5508055, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:22:27.442179"}},{,{"frame":"2018-08-07 12:22:29.508280"}},{,{"frame":"2018-08-07 12:22:31.578400"}},{{'topleft': {'y': 180, 'x': 606}, 'confidence': 0.50133866, 'bottomright': {'y': 210, 'x': 687}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:22:33.635640"}},{{'topleft': {'y': 138, 'x': 8}, 'confidence': 0.5476977, 'bottomright': {'y': 449, 'x': 218}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:22:35.708270"}},{{'topleft': {'y': 181, 'x': 605}, 'confidence': 0.51442754, 'bottomright': {'y': 210, 'x': 684}, 'label': 'bench'}
+{'topleft': {'y': 131, 'x': 15}, 'confidence': 0.5740807, 'bottomright': {'y': 419, 'x': 207}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:22:37.709993"}},{{'topleft': {'y': 177, 'x': 436}, 'confidence': 0.5215313, 'bottomright': {'y': 206, 'x': 498}, 'label': 'bench'}
+{'topleft': {'y': 142, 'x': 7}, 'confidence': 0.52652913, 'bottomright': {'y': 446, 'x': 217}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:22:39.736062"}},{{'topleft': {'y': 178, 'x': 437}, 'confidence': 0.5190256, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:22:41.794771"}},{,{"frame":"2018-08-07 12:22:43.870665"}},{{'topleft': {'y': 114, 'x': 187}, 'confidence': 0.71787816, 'bottomright': {'y': 199, 'x': 245}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:22:45.937752"}},{{'topleft': {'y': 113, 'x': 190}, 'confidence': 0.6727419, 'bottomright': {'y': 200, 'x': 246}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:22:47.981401"}},{,{"frame":"2018-08-07 12:22:50.051139"}},{{'topleft': {'y': 111, 'x': 190}, 'confidence': 0.59504545, 'bottomright': {'y': 211, 'x': 281}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:22:52.110261"}},{{'topleft': {'y': 111, 'x': 185}, 'confidence': 0.601396, 'bottomright': {'y': 216, 'x': 288}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:22:54.169222"}},{{'topleft': {'y': 172, 'x': 155}, 'confidence': 0.5276157, 'bottomright': {'y': 211, 'x': 208}, 'label': 'car'}
+{'topleft': {'y': 121, 'x': 233}, 'confidence': 0.604535, 'bottomright': {'y': 241, 'x': 316}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:22:56.242246"}},{{'topleft': {'y': 119, 'x': 225}, 'confidence': 0.57605875, 'bottomright': {'y': 249, 'x': 333}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:22:58.310983"}},{{'topleft': {'y': 121, 'x': 247}, 'confidence': 0.72737813, 'bottomright': {'y': 292, 'x': 411}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:23:00.378166"}},{{'topleft': {'y': 175, 'x': 148}, 'confidence': 0.6498436, 'bottomright': {'y': 212, 'x': 195}, 'label': 'car'}
+{'topleft': {'y': 136, 'x': 274}, 'confidence': 0.60857546, 'bottomright': {'y': 358, 'x': 517}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:23:02.446530"}},{{'topleft': {'y': 175, 'x': 147}, 'confidence': 0.6067519, 'bottomright': {'y': 211, 'x': 196}, 'label': 'car'}
+,{"frame":"2018-08-07 12:23:04.516229"}},{,{"frame":"2018-08-07 12:23:06.578937"}},{,{"frame":"2018-08-07 12:23:08.633453"}},{,{"frame":"2018-08-07 12:23:10.692325"}},{,{"frame":"2018-08-07 12:23:12.741329"}},{{'topleft': {'y': 177, 'x': 522}, 'confidence': 0.5118179, 'bottomright': {'y': 209, 'x': 594}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:23:14.804359"}},{,{"frame":"2018-08-07 12:23:16.850313"}},{{'topleft': {'y': 207, 'x': 164}, 'confidence': 0.5802048, 'bottomright': {'y': 278, 'x': 220}, 'label': 'car'}
+,{"frame":"2018-08-07 12:23:18.936083"}},{{'topleft': {'y': 178, 'x': 435}, 'confidence': 0.51877683, 'bottomright': {'y': 206, 'x': 500}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:23:20.990063"}},{,{"frame":"2018-08-07 12:23:23.052457"}},{{'topleft': {'y': 146, 'x': 6}, 'confidence': 0.5587777, 'bottomright': {'y': 441, 'x': 217}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:23:25.117318"}},{{'topleft': {'y': 124, 'x': 228}, 'confidence': 0.7520577, 'bottomright': {'y': 277, 'x': 416}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:23:27.167425"}},{{'topleft': {'y': 135, 'x': 255}, 'confidence': 0.5382046, 'bottomright': {'y': 314, 'x': 462}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:23:29.229721"}},{,{"frame":"2018-08-07 12:23:31.287371"}},{,{"frame":"2018-08-07 12:23:33.267439"}},{{'topleft': {'y': 113, 'x': 272}, 'confidence': 0.516137, 'bottomright': {'y': 205, 'x': 354}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:23:35.396021"}},{{'topleft': {'y': 111, 'x': 267}, 'confidence': 0.64048266, 'bottomright': {'y': 216, 'x': 392}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:23:37.474724"}},{{'topleft': {'y': 128, 'x': 340}, 'confidence': 0.7263885, 'bottomright': {'y': 270, 'x': 531}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:23:39.540016"}},{{'topleft': {'y': 145, 'x': 397}, 'confidence': 0.6065504, 'bottomright': {'y': 358, 'x': 735}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:23:41.604875"}},{{'topleft': {'y': 148, 'x': 5}, 'confidence': 0.54299545, 'bottomright': {'y': 438, 'x': 213}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:23:43.675462"}},{{'topleft': {'y': 117, 'x': 139}, 'confidence': 0.56259745, 'bottomright': {'y': 201, 'x': 271}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:23:45.729432"}},{{'topleft': {'y': 148, 'x': 4}, 'confidence': 0.6489727, 'bottomright': {'y': 440, 'x': 219}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:23:47.795735"}},{{'topleft': {'y': 109, 'x': 210}, 'confidence': 0.6775988, 'bottomright': {'y': 259, 'x': 358}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:23:49.882900"}},{{'topleft': {'y': 114, 'x': 301}, 'confidence': 0.60479015, 'bottomright': {'y': 392, 'x': 603}, 'label': 'train'}
+,{"frame":"2018-08-07 12:23:51.952127"}},{,{"frame":"2018-08-07 12:23:54.007759"}},{,{"frame":"2018-08-07 12:23:56.063342"}},{{'topleft': {'y': 177, 'x': 435}, 'confidence': 0.61107403, 'bottomright': {'y': 206, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:23:58.064915"}},{{'topleft': {'y': 178, 'x': 436}, 'confidence': 0.51982903, 'bottomright': {'y': 208, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:24:00.128098"}},{,{"frame":"2018-08-07 12:24:02.185858"}},{{'topleft': {'y': 177, 'x': 436}, 'confidence': 0.5397605, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:24:04.190898"}},{,{"frame":"2018-08-07 12:24:06.238697"}},{,{"frame":"2018-08-07 12:24:08.316385"}},{,{"frame":"2018-08-07 12:24:10.375292"}},{{'topleft': {'y': 147, 'x': 5}, 'confidence': 0.58329606, 'bottomright': {'y': 441, 'x': 217}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:24:12.443704"}},{,{"frame":"2018-08-07 12:24:14.508424"}},{,{"frame":"2018-08-07 12:24:16.565308"}},{,{"frame":"2018-08-07 12:24:18.615124"}},{,{"frame":"2018-08-07 12:24:20.686916"}},{{'topleft': {'y': 143, 'x': 5}, 'confidence': 0.545248, 'bottomright': {'y': 442, 'x': 213}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:24:22.739116"}},{{'topleft': {'y': 143, 'x': 10}, 'confidence': 0.65007526, 'bottomright': {'y': 439, 'x': 214}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:24:24.784747"}},{{'topleft': {'y': 179, 'x': 435}, 'confidence': 0.545065, 'bottomright': {'y': 206, 'x': 497}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:24:26.826211"}},{{'topleft': {'y': 170, 'x': 237}, 'confidence': 0.5542375, 'bottomright': {'y': 377, 'x': 402}, 'label': 'car'}
+{'topleft': {'y': 139, 'x': 9}, 'confidence': 0.7939746, 'bottomright': {'y': 449, 'x': 213}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:24:28.902780"}},{{'topleft': {'y': 133, 'x': 6}, 'confidence': 0.8121338, 'bottomright': {'y': 449, 'x': 217}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:24:30.968949"}},{,{"frame":"2018-08-07 12:24:33.024313"}},{,{"frame":"2018-08-07 12:24:35.092588"}},{,{"frame":"2018-08-07 12:24:37.155458"}},{,{"frame":"2018-08-07 12:24:39.148974"}},{{'topleft': {'y': 177, 'x': 434}, 'confidence': 0.69494563, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:24:41.245221"}},{{'topleft': {'y': 177, 'x': 436}, 'confidence': 0.5734253, 'bottomright': {'y': 206, 'x': 497}, 'label': 'bench'}
+{'topleft': {'y': 147, 'x': 7}, 'confidence': 0.51340884, 'bottomright': {'y': 439, 'x': 215}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:24:43.243361"}},{{'topleft': {'y': 177, 'x': 436}, 'confidence': 0.5253625, 'bottomright': {'y': 207, 'x': 500}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:24:45.313121"}},{{'topleft': {'y': 176, 'x': 528}, 'confidence': 0.51545507, 'bottomright': {'y': 209, 'x': 595}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:24:47.362991"}},{{'topleft': {'y': 114, 'x': 259}, 'confidence': 0.74117184, 'bottomright': {'y': 210, 'x': 369}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:24:49.453399"}},{{'topleft': {'y': 118, 'x': 294}, 'confidence': 0.7372695, 'bottomright': {'y': 229, 'x': 417}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:24:51.530264"}},{{'topleft': {'y': 116, 'x': 301}, 'confidence': 0.62224764, 'bottomright': {'y': 238, 'x': 430}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:24:53.583116"}},{{'topleft': {'y': 145, 'x': 8}, 'confidence': 0.51186657, 'bottomright': {'y': 442, 'x': 217}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:24:55.643657"}},{{'topleft': {'y': 176, 'x': 438}, 'confidence': 0.5679717, 'bottomright': {'y': 207, 'x': 497}, 'label': 'bench'}
+,{'topleft': {'y': 177, 'x': 526}, 'confidence': 0.5417305, 'bottomright': {'y': 209, 'x': 594}, 'label': 'bench'}
+{'topleft': {'y': 149, 'x': 8}, 'confidence': 0.5341031, 'bottomright': {'y': 436, 'x': 214}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:24:57.696434"}},{{'topleft': {'y': 145, 'x': 6}, 'confidence': 0.53670454, 'bottomright': {'y': 441, 'x': 214}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:24:59.755388"}},{{'topleft': {'y': 177, 'x': 433}, 'confidence': 0.65543485, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+{'topleft': {'y': 145, 'x': 8}, 'confidence': 0.5388573, 'bottomright': {'y': 440, 'x': 214}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:25:01.823892"}},{,{"frame":"2018-08-07 12:25:03.883876"}},{{'topleft': {'y': 179, 'x': 603}, 'confidence': 0.55524975, 'bottomright': {'y': 208, 'x': 683}, 'label': 'bench'}
+{'topleft': {'y': 144, 'x': 9}, 'confidence': 0.5441739, 'bottomright': {'y': 441, 'x': 217}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:25:05.971368"}},{{'topleft': {'y': 147, 'x': 7}, 'confidence': 0.5966117, 'bottomright': {'y': 440, 'x': 213}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:25:08.028199"}},{{'topleft': {'y': 176, 'x': 435}, 'confidence': 0.6398678, 'bottomright': {'y': 206, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:25:10.091646"}},{{'topleft': {'y': 177, 'x': 437}, 'confidence': 0.51928836, 'bottomright': {'y': 206, 'x': 498}, 'label': 'bench'}
+,{'topleft': {'y': 182, 'x': 603}, 'confidence': 0.5094312, 'bottomright': {'y': 211, 'x': 684}, 'label': 'bench'}
+{'topleft': {'y': 147, 'x': 10}, 'confidence': 0.5320331, 'bottomright': {'y': 440, 'x': 215}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:25:12.113462"}},{,{"frame":"2018-08-07 12:25:14.169951"}},{{'topleft': {'y': 145, 'x': 8}, 'confidence': 0.64614886, 'bottomright': {'y': 441, 'x': 213}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:25:16.238978"}},{{'topleft': {'y': 177, 'x': 437}, 'confidence': 0.5300464, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:25:18.303489"}},{{'topleft': {'y': 149, 'x': 9}, 'confidence': 0.63433605, 'bottomright': {'y': 439, 'x': 213}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:25:20.385227"}},{{'topleft': {'y': 177, 'x': 437}, 'confidence': 0.6076883, 'bottomright': {'y': 207, 'x': 497}, 'label': 'bench'}
+{'topleft': {'y': 177, 'x': 527}, 'confidence': 0.50404465, 'bottomright': {'y': 210, 'x': 596}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:25:22.441644"}},{{'topleft': {'y': 145, 'x': 6}, 'confidence': 0.56909835, 'bottomright': {'y': 438, 'x': 216}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:25:24.508185"}},{{'topleft': {'y': 178, 'x': 435}, 'confidence': 0.58704364, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:25:26.560143"}},{{'topleft': {'y': 228, 'x': 184}, 'confidence': 0.79535484, 'bottomright': {'y': 313, 'x': 280}, 'label': 'car'}
+,{"frame":"2018-08-07 12:25:28.596449"}},{{'topleft': {'y': 254, 'x': 235}, 'confidence': 0.79934025, 'bottomright': {'y': 354, 'x': 365}, 'label': 'car'}
+,{"frame":"2018-08-07 12:25:30.659488"}},{{'topleft': {'y': 178, 'x': 435}, 'confidence': 0.5626353, 'bottomright': {'y': 206, 'x': 498}, 'label': 'bench'}
+{'topleft': {'y': 150, 'x': 7}, 'confidence': 0.5646033, 'bottomright': {'y': 436, 'x': 217}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:25:32.721570"}},{{'topleft': {'y': 176, 'x': 436}, 'confidence': 0.5361246, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:25:34.722290"}},{{'topleft': {'y': 178, 'x': 272}, 'confidence': 0.50063586, 'bottomright': {'y': 210, 'x': 306}, 'label': 'car'}
+{'topleft': {'y': 177, 'x': 435}, 'confidence': 0.5981832, 'bottomright': {'y': 208, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:25:36.758593"}},{{'topleft': {'y': 177, 'x': 433}, 'confidence': 0.6374186, 'bottomright': {'y': 206, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:25:38.827292"}},{,{"frame":"2018-08-07 12:25:40.868024"}},{,{"frame":"2018-08-07 12:25:42.952632"}},{{'topleft': {'y': 177, 'x': 438}, 'confidence': 0.5068603, 'bottomright': {'y': 206, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:25:45.013367"}},{{'topleft': {'y': 181, 'x': 273}, 'confidence': 0.50257987, 'bottomright': {'y': 207, 'x': 303}, 'label': 'bench'}
+,{'topleft': {'y': 176, 'x': 434}, 'confidence': 0.6279148, 'bottomright': {'y': 206, 'x': 499}, 'label': 'bench'}
+,{'topleft': {'y': 178, 'x': 525}, 'confidence': 0.56812024, 'bottomright': {'y': 208, 'x': 594}, 'label': 'bench'}
+{'topleft': {'y': 147, 'x': 8}, 'confidence': 0.5510423, 'bottomright': {'y': 440, 'x': 213}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:25:47.082924"}},{{'topleft': {'y': 176, 'x': 435}, 'confidence': 0.50296724, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+{'topleft': {'y': 147, 'x': 9}, 'confidence': 0.60055596, 'bottomright': {'y': 438, 'x': 211}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:25:49.191742"}},{,{"frame":"2018-08-07 12:25:51.274925"}},{,{"frame":"2018-08-07 12:25:53.325843"}},{{'topleft': {'y': 145, 'x': 11}, 'confidence': 0.70741075, 'bottomright': {'y': 439, 'x': 216}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:25:55.390890"}},{{'topleft': {'y': 181, 'x': 270}, 'confidence': 0.5556446, 'bottomright': {'y': 208, 'x': 303}, 'label': 'car'}
+,{'topleft': {'y': 250, 'x': 230}, 'confidence': 0.8139795, 'bottomright': {'y': 329, 'x': 332}, 'label': 'car'}
+{'topleft': {'y': 177, 'x': 439}, 'confidence': 0.5166501, 'bottomright': {'y': 207, 'x': 495}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:25:57.442483"}},{{'topleft': {'y': 177, 'x': 435}, 'confidence': 0.58995926, 'bottomright': {'y': 206, 'x': 497}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:25:59.533970"}},{,{"frame":"2018-08-07 12:26:01.577452"}},{,{"frame":"2018-08-07 12:26:03.644553"}},{{'topleft': {'y': 145, 'x': 9}, 'confidence': 0.5077784, 'bottomright': {'y': 440, 'x': 213}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:26:05.752802"}},{{'topleft': {'y': 169, 'x': 740}, 'confidence': 0.58160233, 'bottomright': {'y': 219, 'x': 795}, 'label': 'car'}
+,{"frame":"2018-08-07 12:26:07.868747"}},{{'topleft': {'y': 178, 'x': 434}, 'confidence': 0.59105116, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:26:09.951144"}},{,{"frame":"2018-08-07 12:26:12.055316"}},{{'topleft': {'y': 179, 'x': 434}, 'confidence': 0.61786026, 'bottomright': {'y': 206, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:26:14.123320"}},{{'topleft': {'y': 178, 'x': 434}, 'confidence': 0.52971125, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:26:16.190576"}},{{'topleft': {'y': 179, 'x': 435}, 'confidence': 0.54166406, 'bottomright': {'y': 206, 'x': 497}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:26:18.253602"}},{,{"frame":"2018-08-07 12:26:20.324919"}},{,{"frame":"2018-08-07 12:26:22.384186"}},{,{"frame":"2018-08-07 12:26:24.478385"}},{{'topleft': {'y': 176, 'x': 435}, 'confidence': 0.55088407, 'bottomright': {'y': 208, 'x': 498}, 'label': 'bench'}
+{'topleft': {'y': 140, 'x': 8}, 'confidence': 0.5554793, 'bottomright': {'y': 444, 'x': 215}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:26:26.551388"}},{{'topleft': {'y': 177, 'x': 433}, 'confidence': 0.5779124, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:26:28.598766"}},{{'topleft': {'y': 148, 'x': 7}, 'confidence': 0.56658316, 'bottomright': {'y': 439, 'x': 217}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:26:30.659079"}},{,{"frame":"2018-08-07 12:26:32.702268"}},{,{"frame":"2018-08-07 12:26:34.721374"}},{{'topleft': {'y': 176, 'x': 434}, 'confidence': 0.6534109, 'bottomright': {'y': 207, 'x': 502}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:26:36.783180"}},{{'topleft': {'y': 179, 'x': 605}, 'confidence': 0.58933663, 'bottomright': {'y': 208, 'x': 682}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:26:38.771731"}},{{'topleft': {'y': 177, 'x': 435}, 'confidence': 0.5833751, 'bottomright': {'y': 207, 'x': 500}, 'label': 'bench'}
+{'topleft': {'y': 145, 'x': 6}, 'confidence': 0.5617459, 'bottomright': {'y': 440, 'x': 214}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:26:40.865874"}},{{'topleft': {'y': 177, 'x': 433}, 'confidence': 0.6253012, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:26:42.942801"}},{{'topleft': {'y': 147, 'x': 8}, 'confidence': 0.54917765, 'bottomright': {'y': 440, 'x': 216}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:26:45.005465"}},{{'topleft': {'y': 177, 'x': 436}, 'confidence': 0.61802006, 'bottomright': {'y': 207, 'x': 498}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:26:47.081759"}},{,{"frame":"2018-08-07 12:26:49.159149"}},{,{"frame":"2018-08-07 12:26:51.239109"}},{{'topleft': {'y': 148, 'x': 7}, 'confidence': 0.5090202, 'bottomright': {'y': 437, 'x': 215}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:26:53.307218"}},{{'topleft': {'y': 133, 'x': 142}, 'confidence': 0.5273415, 'bottomright': {'y': 182, 'x': 177}, 'label': 'person'}
+,{"frame":"2018-08-07 12:26:55.386101"}},{,{"frame":"2018-08-07 12:26:57.467443"}},{{'topleft': {'y': 179, 'x': 600}, 'confidence': 0.51365256, 'bottomright': {'y': 208, 'x': 685}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:26:59.534206"}},{,{"frame":"2018-08-07 12:27:01.602020"}},{,{"frame":"2018-08-07 12:27:03.663736"}},{,{"frame":"2018-08-07 12:27:05.715593"}},{,{"frame":"2018-08-07 12:27:07.780550"}},{,{"frame":"2018-08-07 12:27:09.845172"}},{{'topleft': {'y': 178, 'x': 436}, 'confidence': 0.5181025, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:27:11.942070"}},{{'topleft': {'y': 135, 'x': 6}, 'confidence': 0.7140185, 'bottomright': {'y': 448, 'x': 212}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:27:14.014306"}},{{'topleft': {'y': 138, 'x': 6}, 'confidence': 0.6087863, 'bottomright': {'y': 444, 'x': 212}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:27:16.145209"}},{{'topleft': {'y': 179, 'x': 269}, 'confidence': 0.52030975, 'bottomright': {'y': 209, 'x': 306}, 'label': 'car'}
+{'topleft': {'y': 232, 'x': 192}, 'confidence': 0.62827206, 'bottomright': {'y': 304, 'x': 283}, 'label': 'car'}
+,{"frame":"2018-08-07 12:27:18.213931"}},{{'topleft': {'y': 144, 'x': 8}, 'confidence': 0.7041975, 'bottomright': {'y': 441, 'x': 215}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:27:20.283178"}},{,{"frame":"2018-08-07 12:27:22.361602"}},{{'topleft': {'y': 291, 'x': 272}, 'confidence': 0.71381974, 'bottomright': {'y': 391, 'x': 420}, 'label': 'car'}
+,{'topleft': {'y': 177, 'x': 436}, 'confidence': 0.60989624, 'bottomright': {'y': 206, 'x': 497}, 'label': 'bench'}
+{'topleft': {'y': 181, 'x': 600}, 'confidence': 0.54362386, 'bottomright': {'y': 209, 'x': 685}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:27:24.428092"}},{{'topleft': {'y': 177, 'x': 435}, 'confidence': 0.5408551, 'bottomright': {'y': 206, 'x': 501}, 'label': 'bench'}
+,{'topleft': {'y': 179, 'x': 602}, 'confidence': 0.5335779, 'bottomright': {'y': 209, 'x': 684}, 'label': 'bench'}
+{'topleft': {'y': 145, 'x': 7}, 'confidence': 0.58319557, 'bottomright': {'y': 442, 'x': 217}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:27:26.506923"}},{{'topleft': {'y': 114, 'x': 145}, 'confidence': 0.5281799, 'bottomright': {'y': 202, 'x': 263}, 'label': 'truck'}
+{'topleft': {'y': 149, 'x': 5}, 'confidence': 0.56175405, 'bottomright': {'y': 441, 'x': 215}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:27:28.562432"}},{{'topleft': {'y': 176, 'x': 693}, 'confidence': 0.5011689, 'bottomright': {'y': 210, 'x': 771}, 'label': 'car'}
+,{'topleft': {'y': 108, 'x': 188}, 'confidence': 0.6975569, 'bottomright': {'y': 233, 'x': 305}, 'label': 'truck'}
+{'topleft': {'y': 147, 'x': 4}, 'confidence': 0.5797631, 'bottomright': {'y': 443, 'x': 218}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:27:30.629868"}},{{'topleft': {'y': 139, 'x': 240}, 'confidence': 0.63726497, 'bottomright': {'y': 296, 'x': 418}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:27:32.685106"}},{,{"frame":"2018-08-07 12:27:34.684839"}},{,{"frame":"2018-08-07 12:27:36.732823"}},{{'topleft': {'y': 140, 'x': 5}, 'confidence': 0.5531639, 'bottomright': {'y': 442, 'x': 216}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:27:38.799922"}},{{'topleft': {'y': 177, 'x': 438}, 'confidence': 0.54203194, 'bottomright': {'y': 206, 'x': 498}, 'label': 'bench'}
+,{'topleft': {'y': 180, 'x': 603}, 'confidence': 0.5968128, 'bottomright': {'y': 211, 'x': 686}, 'label': 'bench'}
+{'topleft': {'y': 145, 'x': 6}, 'confidence': 0.6263168, 'bottomright': {'y': 441, 'x': 216}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:27:40.879891"}},{{'topleft': {'y': 180, 'x': 603}, 'confidence': 0.5878316, 'bottomright': {'y': 210, 'x': 685}, 'label': 'bench'}
+{'topleft': {'y': 140, 'x': 6}, 'confidence': 0.6082277, 'bottomright': {'y': 444, 'x': 214}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:27:42.960930"}},{{'topleft': {'y': 178, 'x': 436}, 'confidence': 0.53243375, 'bottomright': {'y': 207, 'x': 497}, 'label': 'bench'}
+,{'topleft': {'y': 179, 'x': 601}, 'confidence': 0.5502013, 'bottomright': {'y': 209, 'x': 685}, 'label': 'bench'}
+{'topleft': {'y': 145, 'x': 6}, 'confidence': 0.6118543, 'bottomright': {'y': 440, 'x': 212}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:27:45.026169"}},{{'topleft': {'y': 178, 'x': 436}, 'confidence': 0.5947215, 'bottomright': {'y': 207, 'x': 496}, 'label': 'bench'}
+{'topleft': {'y': 180, 'x': 603}, 'confidence': 0.59273803, 'bottomright': {'y': 210, 'x': 685}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:27:47.121128"}},{{'topleft': {'y': 177, 'x': 436}, 'confidence': 0.6192415, 'bottomright': {'y': 206, 'x': 497}, 'label': 'bench'}
+{'topleft': {'y': 141, 'x': 8}, 'confidence': 0.67540616, 'bottomright': {'y': 442, 'x': 214}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:27:49.181660"}},{{'topleft': {'y': 179, 'x': 603}, 'confidence': 0.5224712, 'bottomright': {'y': 210, 'x': 684}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:27:51.260427"}},{{'topleft': {'y': 178, 'x': 438}, 'confidence': 0.52075696, 'bottomright': {'y': 207, 'x': 497}, 'label': 'bench'}
+{'topleft': {'y': 144, 'x': 5}, 'confidence': 0.5285061, 'bottomright': {'y': 442, 'x': 217}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:27:53.373076"}},{{'topleft': {'y': 178, 'x': 438}, 'confidence': 0.51534444, 'bottomright': {'y': 206, 'x': 496}, 'label': 'bench'}
+{'topleft': {'y': 143, 'x': 5}, 'confidence': 0.5900626, 'bottomright': {'y': 444, 'x': 216}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:27:55.404905"}},{,{"frame":"2018-08-07 12:27:57.474449"}},{{'topleft': {'y': 142, 'x': 3}, 'confidence': 0.56010807, 'bottomright': {'y': 445, 'x': 219}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:27:59.557444"}},{{'topleft': {'y': 191, 'x': 352}, 'confidence': 0.6403105, 'bottomright': {'y': 295, 'x': 478}, 'label': 'car'}
+,{"frame":"2018-08-07 12:28:01.628353"}},{{'topleft': {'y': 182, 'x': 273}, 'confidence': 0.5199914, 'bottomright': {'y': 207, 'x': 301}, 'label': 'car'}
+{'topleft': {'y': 216, 'x': 174}, 'confidence': 0.73075336, 'bottomright': {'y': 278, 'x': 238}, 'label': 'car'}
+,{"frame":"2018-08-07 12:28:03.685303"}},{{'topleft': {'y': 182, 'x': 268}, 'confidence': 0.5358708, 'bottomright': {'y': 207, 'x': 300}, 'label': 'car'}
+,{'topleft': {'y': 250, 'x': 236}, 'confidence': 0.8917327, 'bottomright': {'y': 345, 'x': 357}, 'label': 'car'}
+{'topleft': {'y': 145, 'x': 3}, 'confidence': 0.5000253, 'bottomright': {'y': 440, 'x': 209}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:28:05.754211"}},{,{"frame":"2018-08-07 12:28:07.833449"}},{,{"frame":"2018-08-07 12:28:09.861503"}},{,{"frame":"2018-08-07 12:28:11.875792"}},{,{"frame":"2018-08-07 12:28:13.939426"}},{,{"frame":"2018-08-07 12:28:16.002993"}},{,{"frame":"2018-08-07 12:28:18.092846"}},{{'topleft': {'y': 143, 'x': 8}, 'confidence': 0.6947486, 'bottomright': {'y': 440, 'x': 215}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:28:20.165467"}},{,{"frame":"2018-08-07 12:28:22.240834"}},{,{"frame":"2018-08-07 12:28:24.323023"}},{,{"frame":"2018-08-07 12:28:26.394853"}},{,{"frame":"2018-08-07 12:28:28.458761"}},{{'topleft': {'y': 107, 'x': 98}, 'confidence': 0.50917435, 'bottomright': {'y': 165, 'x': 142}, 'label': 'bus'}
+,{"frame":"2018-08-07 12:28:30.520241"}},{{'topleft': {'y': 181, 'x': 272}, 'confidence': 0.51217157, 'bottomright': {'y': 208, 'x': 303}, 'label': 'car'}
+,{"frame":"2018-08-07 12:28:32.575653"}},{{'topleft': {'y': 113, 'x': 93}, 'confidence': 0.68797576, 'bottomright': {'y': 180, 'x': 153}, 'label': 'bus'}
+{'topleft': {'y': 177, 'x': 437}, 'confidence': 0.56236404, 'bottomright': {'y': 207, 'x': 497}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:28:34.639177"}},{{'topleft': {'y': 177, 'x': 437}, 'confidence': 0.5816666, 'bottomright': {'y': 207, 'x': 499}, 'label': 'bench'}
+,{"frame":"2018-08-07 12:28:36.701254"}},{,{"frame":"2018-08-07 12:28:38.674441"}},{{'topleft': {'y': 179, 'x': 241}, 'confidence': 0.7112173, 'bottomright': {'y': 370, 'x': 422}, 'label': 'car'}
+{'topleft': {'y': 135, 'x': 2}, 'confidence': 0.70811206, 'bottomright': {'y': 449, 'x': 217}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:28:40.757355"}},{{'topleft': {'y': 112, 'x': 144}, 'confidence': 0.5681309, 'bottomright': {'y': 204, 'x': 270}, 'label': 'truck'}
+{'topleft': {'y': 148, 'x': 5}, 'confidence': 0.657426, 'bottomright': {'y': 440, 'x': 213}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:28:43.761063"}},{{'topleft': {'y': 109, 'x': 186}, 'confidence': 0.63363326, 'bottomright': {'y': 230, 'x': 305}, 'label': 'truck'}
+{'topleft': {'y': 142, 'x': 2}, 'confidence': 0.5005341, 'bottomright': {'y': 447, 'x': 215}, 'label': 'oven'}
+,{"frame":"2018-08-07 12:28:46.403120"}},{{'topleft': {'y': 128, 'x': 233}, 'confidence': 0.7971657, 'bottomright': {'y': 276, 'x': 404}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:28:48.881915"}},{{'topleft': {'y': 133, 'x': 290}, 'confidence': 0.7383065, 'bottomright': {'y': 368, 'x': 564}, 'label': 'truck'}
+,{"frame":"2018-08-07 12:28:51.252886"}},{,{"frame":"2018-08-07 12:28:53.401433"}},{,{"frame":"2018-08-07 12:28:55.610618"}},

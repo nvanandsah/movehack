@@ -8,7 +8,7 @@ import datetime
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 options = {
     'model': 'cfg/traffic.cfg',
-    'load': 'bin/traffic.weights',
+    'load': 'traffic.weights',
     'threshold': 0.40504555,
     'gpu': 1.0
 }

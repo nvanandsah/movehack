@@ -6,6 +6,10 @@
 
 Python3, tensorflow 1.0, numpy, opencv 3.
 
+## Downloads
+https://drive.google.com/open?id=1oIItdJNdMkP5dAAPbvSxLK1ZXw8YV4Fi
+Download this weight file and save in main folder
+
 ## Installing
 
 1. Just build the Cython extensions in place. 

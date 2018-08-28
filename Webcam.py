@@ -19,10 +19,10 @@ colors = [tuple(255 * np.random.rand(3)) for _ in range(10)]
 writer = None
 
 
-#for webcam         capture = cv2.VideoCapture(0)
+#for live camera    capture = cv2.VideoCapture("http://138.118.33.201:80/mjpg/video.mjpg")
 #for video file     capture = cv2.VideoCapture(ayz.mp4)
 
-capture = cv2.VideoCapture("http://207.192.232.2:8000/mjpg/video.mjpg")
+capture = cv2.VideoCapture(0)
 capture.set(cv2.CAP_PROP_FRAME_WIDTH, 416)
 capture.set(cv2.CAP_PROP_FRAME_HEIGHT, 416)
 videowriter = None

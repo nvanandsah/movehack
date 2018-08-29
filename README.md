@@ -1,10 +1,13 @@
 # Movehack
 # Giving Senses
-### We propose smart analytics for different senses such as vision, hearing,etc to derive productive data from those, which can be further linked with Data Science (ML, DL, AI). The reason behind using various senses is to increase the accuracy and efficiency for a specific application. The technology behind video analytics is Yolov (i.e 1000x faster than current models being used i.e R-CNN). By this we will be able to generate data sets with very less cost for different senses. It can be used in various places such Autonomous Vehicle  , traffic flow mapping,etc
+ We propose smart analytics for different senses such as vision, hearing,etc to derive productive data from those, which can be further linked with Data Science (ML, DL, AI). The reason behind using various senses is to increase the accuracy and efficiency for a specific application. The technology behind video analytics is Yolov (i.e 1000x faster than current models being used i.e R-CNN). By this we will be able to generate data sets with very less cost for different senses. It can be used in various places such Autonomous Vehicle  , traffic flow mapping,etc
 
 ## Dependencies
 
-Python3, tensorflow 1.0, numpy, opencv 3.
+    -Python 3
+    -tensorflow 1.0
+    -numpy
+    -opencv 3.
 
 ## Downloads
 https://drive.google.com/open?id=1oIItdJNdMkP5dAAPbvSxLK1ZXw8YV4Fi
@@ -34,7 +37,7 @@ Download this weight file and save in main folder
     ```
     
 ## Output
-1.  Results will start displaying on the terminal.
+1. Results will start displaying on the terminal.
 
 2. Data in json is stored in kishan.txt in DATA folder.
 
